@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/abc_dropdownitem_text_padding_right">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_rounded_corners">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/correo"
+                android:cropToPadding="true"
+                android:scaleType="center"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:id="@+id/subject"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/foto"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_mensajes"
+                android:layout_marginTop="25dp"
+                android:gravity="center_horizontal"
+                android:cacheColorHint="#00000000"/>
+
+        </RelativeLayout>
+
+</FrameLayout>
+
+

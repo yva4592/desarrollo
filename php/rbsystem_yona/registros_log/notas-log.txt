@@ -1,0 +1,3299 @@
+
+***********************FECHA = 22/06/2014  HORA = 04:45:07 pm*************************
+FECHA = 22/06/2014
+HORA = 04:45:07 pm
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 04:45:07 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 04:45:29 pm*************************
+FECHA = 22/06/2014
+HORA = 04:45:29 pm
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 22/06/2014  HORA = 04:45:29 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:24:09 pm*************************
+FECHA = 22/06/2014
+HORA = 09:24:09 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,35.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,0.00000
+***********************FECHA = 22/06/2014  HORA = 09:24:09 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:37:49 pm*************************
+FECHA = 22/06/2014
+HORA = 09:37:49 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,35.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,0.00000
+***********************FECHA = 22/06/2014  HORA = 09:37:49 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:39:32 pm*************************
+FECHA = 22/06/2014
+HORA = 09:39:32 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 22/06/2014  HORA = 09:39:32 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:23:06 pm*************************
+FECHA = 22/06/2014
+HORA = 10:23:06 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:23:06 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:25:47 pm*************************
+FECHA = 22/06/2014
+HORA = 10:25:47 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 22/06/2014  HORA = 10:25:47 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:26:24 pm*************************
+FECHA = 22/06/2014
+HORA = 10:26:24 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 22/06/2014  HORA = 10:26:24 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:28:56 pm*************************
+FECHA = 22/06/2014
+HORA = 10:28:56 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 22/06/2014  HORA = 10:28:56 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:46:33 pm*************************
+FECHA = 22/06/2014
+HORA = 10:46:33 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:46:33 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:46:45 pm*************************
+FECHA = 22/06/2014
+HORA = 10:46:45 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 22/06/2014  HORA = 10:46:45 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:44:53 pm*************************
+FECHA = 22/06/2014
+HORA = 11:44:53 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 22/06/2014  HORA = 11:44:53 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:49:55 pm*************************
+FECHA = 22/06/2014
+HORA = 11:49:55 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :2,Biologia7A,prueba 1,50.00000
+CABECERAS :id,curso,item,nota
+DATOS :2,Biologia7A,prueba 2,70.00000
+***********************FECHA = 22/06/2014  HORA = 11:49:55 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:39:49 am*************************
+FECHA = 23/06/2014
+HORA = 12:39:49 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 12:39:49 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:25:43 am*************************
+FECHA = 23/06/2014
+HORA = 02:25:43 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,0.00000
+***********************FECHA = 23/06/2014  HORA = 02:25:43 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:26:29 am*************************
+FECHA = 23/06/2014
+HORA = 02:26:29 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,0.00000
+***********************FECHA = 23/06/2014  HORA = 02:26:29 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:52:14 am*************************
+FECHA = 23/06/2014
+HORA = 02:52:14 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 02:52:14 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:52:33 am*************************
+FECHA = 23/06/2014
+HORA = 02:52:33 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 23/06/2014  HORA = 02:52:33 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 03:12:30 pm*************************
+FECHA = 23/06/2014
+HORA = 03:12:30 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 03:12:30 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 03:22:55 pm*************************
+FECHA = 23/06/2014
+HORA = 03:22:55 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 03:22:55 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:39:26 pm*************************
+FECHA = 23/06/2014
+HORA = 04:39:26 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 04:39:26 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:45:35 pm*************************
+FECHA = 23/06/2014
+HORA = 04:45:35 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 04:45:35 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:48:47 pm*************************
+FECHA = 23/06/2014
+HORA = 04:48:47 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 04:48:47 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:48:52 pm*************************
+FECHA = 23/06/2014
+HORA = 04:48:52 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 04:48:52 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:44:20 pm*************************
+FECHA = 23/06/2014
+HORA = 10:44:20 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 10:44:20 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:44:41 pm*************************
+FECHA = 23/06/2014
+HORA = 10:44:41 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 10:44:41 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:25:48 pm*************************
+FECHA = 23/06/2014
+HORA = 11:25:48 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,35.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 11:25:48 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:39:34 pm*************************
+FECHA = 23/06/2014
+HORA = 11:39:34 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 11:39:34 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:48:31 pm*************************
+FECHA = 23/06/2014
+HORA = 11:48:31 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,35.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,0.00000
+***********************FECHA = 23/06/2014  HORA = 11:48:31 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:18 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:18 pm
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 23/06/2014  HORA = 11:51:18 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:03:39 am*************************
+FECHA = 24/06/2014
+HORA = 12:03:39 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 12:03:39 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:04:45 am*************************
+FECHA = 24/06/2014
+HORA = 12:04:45 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 12:04:45 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:05:35 am*************************
+FECHA = 24/06/2014
+HORA = 12:05:35 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 12:05:35 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:22:41 am*************************
+FECHA = 24/06/2014
+HORA = 12:22:41 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 12:22:41 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:25:26 am*************************
+FECHA = 24/06/2014
+HORA = 12:25:26 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 12:25:26 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:39:05 am*************************
+FECHA = 24/06/2014
+HORA = 12:39:05 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:39:05 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:41:33 am*************************
+FECHA = 24/06/2014
+HORA = 12:41:33 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:41:33 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:38:44 am*************************
+FECHA = 24/06/2014
+HORA = 01:38:44 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:38:44 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:44:29 am*************************
+FECHA = 24/06/2014
+HORA = 01:44:29 am
+IP = 190.22.50.129
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:44:29 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:51:28 pm*************************
+FECHA = 24/06/2014
+HORA = 01:51:28 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:51:28 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:51:42 pm*************************
+FECHA = 24/06/2014
+HORA = 01:51:42 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:51:42 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:52:58 pm*************************
+FECHA = 24/06/2014
+HORA = 01:52:58 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:52:58 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:53:02 pm*************************
+FECHA = 24/06/2014
+HORA = 01:53:02 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:53:02 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:53:05 pm*************************
+FECHA = 24/06/2014
+HORA = 01:53:05 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:53:05 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:54:26 pm*************************
+FECHA = 24/06/2014
+HORA = 01:54:26 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:54:26 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:57:37 pm*************************
+FECHA = 24/06/2014
+HORA = 01:57:37 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:57:37 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:57:45 pm*************************
+FECHA = 24/06/2014
+HORA = 01:57:45 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:57:45 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:58:06 pm*************************
+FECHA = 24/06/2014
+HORA = 01:58:06 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:58:06 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:58:22 pm*************************
+FECHA = 24/06/2014
+HORA = 01:58:22 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:58:22 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:58:57 pm*************************
+FECHA = 24/06/2014
+HORA = 01:58:57 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:58:57 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:58:59 pm*************************
+FECHA = 24/06/2014
+HORA = 01:58:59 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:58:59 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:59:08 pm*************************
+FECHA = 24/06/2014
+HORA = 01:59:08 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 01:59:08 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:00:56 pm*************************
+FECHA = 24/06/2014
+HORA = 02:00:56 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:00:56 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:15 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:15 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:04:15 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:24 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:24 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:04:24 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:19:04 pm*************************
+FECHA = 24/06/2014
+HORA = 02:19:04 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:19:04 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:35 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:35 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:35:35 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:36:30 pm*************************
+FECHA = 24/06/2014
+HORA = 02:36:30 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:36:30 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:42:34 pm*************************
+FECHA = 24/06/2014
+HORA = 02:42:34 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:42:34 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:43:45 pm*************************
+FECHA = 24/06/2014
+HORA = 02:43:45 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:43:45 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:10 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:10 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:47:10 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:17 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:17 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:47:17 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:38 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:38 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:47:38 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:47 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:47 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:47:47 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:55 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:55 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:47:55 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:50:14 pm*************************
+FECHA = 24/06/2014
+HORA = 02:50:14 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:50:14 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:57:16 pm*************************
+FECHA = 24/06/2014
+HORA = 02:57:16 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 02:57:16 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:01:11 pm*************************
+FECHA = 24/06/2014
+HORA = 03:01:11 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:01:11 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:03:25 pm*************************
+FECHA = 24/06/2014
+HORA = 03:03:25 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:03:25 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:03:56 pm*************************
+FECHA = 24/06/2014
+HORA = 03:03:56 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:03:56 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:03:59 pm*************************
+FECHA = 24/06/2014
+HORA = 03:03:59 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:03:59 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:08:53 pm*************************
+FECHA = 24/06/2014
+HORA = 03:08:53 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:08:53 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:11:44 pm*************************
+FECHA = 24/06/2014
+HORA = 03:11:44 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 24/06/2014  HORA = 03:11:44 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:48:38 pm*************************
+FECHA = 24/06/2014
+HORA = 03:48:38 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:48:38 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:48:40 pm*************************
+FECHA = 24/06/2014
+HORA = 03:48:40 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:48:40 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:48:44 pm*************************
+FECHA = 24/06/2014
+HORA = 03:48:44 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:48:44 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:27:21 pm*************************
+FECHA = 24/06/2014
+HORA = 04:27:21 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 04:27:21 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:33:27 pm*************************
+FECHA = 24/06/2014
+HORA = 04:33:27 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 04:33:27 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:33:29 pm*************************
+FECHA = 24/06/2014
+HORA = 04:33:29 pm
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 04:33:29 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 01:20:21 am*************************
+FECHA = 25/06/2014
+HORA = 01:20:21 am
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 25/06/2014  HORA = 01:20:21 am*************************
+
+***********************FECHA = 25/06/2014  HORA = 01:20:57 am*************************
+FECHA = 25/06/2014
+HORA = 01:20:57 am
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 25/06/2014  HORA = 01:20:57 am*************************
+
+***********************FECHA = 25/06/2014  HORA = 01:52:44 am*************************
+FECHA = 25/06/2014
+HORA = 01:52:44 am
+IP = 190.22.98.117
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 25/06/2014  HORA = 01:52:44 am*************************
+
+***********************FECHA = 25/06/2014  HORA = 02:57:52 pm*************************
+FECHA = 25/06/2014
+HORA = 02:57:52 pm
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 25/06/2014  HORA = 02:57:52 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 02:57:57 pm*************************
+FECHA = 25/06/2014
+HORA = 02:57:57 pm
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 25/06/2014  HORA = 02:57:57 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 02:58:06 pm*************************
+FECHA = 25/06/2014
+HORA = 02:58:06 pm
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 25/06/2014  HORA = 02:58:06 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 03:32:55 pm*************************
+FECHA = 25/06/2014
+HORA = 03:32:55 pm
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 25/06/2014  HORA = 03:32:55 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 04:21:51 pm*************************
+FECHA = 25/06/2014
+HORA = 04:21:51 pm
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 25/06/2014  HORA = 04:21:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 04:25:28 am*************************
+FECHA = 26/06/2014
+HORA = 04:25:28 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 04:25:28 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:23:04 am*************************
+FECHA = 26/06/2014
+HORA = 05:23:04 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 26/06/2014  HORA = 05:23:04 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:23:04 am*************************
+FECHA = 26/06/2014
+HORA = 05:23:04 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:23:04 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:23:58 am*************************
+FECHA = 26/06/2014
+HORA = 05:23:58 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 26/06/2014  HORA = 05:23:58 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:23:58 am*************************
+FECHA = 26/06/2014
+HORA = 05:23:58 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:23:58 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:58 am*************************
+FECHA = 26/06/2014
+HORA = 07:12:58 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 7bbiologia
+***********************FECHA = 26/06/2014  HORA = 07:12:58 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:58 am*************************
+FECHA = 26/06/2014
+HORA = 07:12:58 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:12:58 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:03 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:03 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 7Bbiologia
+***********************FECHA = 26/06/2014  HORA = 07:13:03 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:03 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:03 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:13:03 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:36 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:36 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = Biologia7B
+***********************FECHA = 26/06/2014  HORA = 07:13:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:36 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:36 am
+IP = 190.22.8.159
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:13:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+FECHA = 26/06/2014
+HORA = 07:14:25 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+FECHA = 26/06/2014
+HORA = 07:14:25 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+FECHA = 26/06/2014
+HORA = 07:14:25 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 26/06/2014  HORA = 07:14:25 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+FECHA = 26/06/2014
+HORA = 07:16:31 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+FECHA = 26/06/2014
+HORA = 07:16:31 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+FECHA = 26/06/2014
+HORA = 07:16:31 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 07:16:31 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:43 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:43 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 26/06/2014  HORA = 07:19:43 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:43 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:43 am
+IP = 201.214.167.141
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:19:43 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:51 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:51 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:51 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 06:42:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:46 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:46 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 26/06/2014  HORA = 06:43:46 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:46 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:46 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:43:46 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:29 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:29 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:29 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 08:18:29 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:27 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:27 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:27 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 08:22:27 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:47 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:47 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:47 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 08:22:47 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:52 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:52 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:52 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 08:35:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:58 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:58 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:58 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 08:35:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:01 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:01 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:01 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:16:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:18:54 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:18:54 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:18:54 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:18:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:21:56 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:21:56 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:21:56 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:21:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:10 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:10 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:10 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:24:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:18 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:18 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:18 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:24:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:25:09 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:25:09 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:25:09 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:25:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:00 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:00 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:00 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:30:00 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:31:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:23 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:23 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:23 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:31:23 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:53 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:53 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:53 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:31:53 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:16 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:36:16 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:31 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:31 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:31 pm
+IP = 190.22.67.233
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 26/06/2014  HORA = 09:39:31 pm*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:04 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:04 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:04 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 27/06/2014  HORA = 12:54:04 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+FECHA = 27/06/2014
+HORA = 12:55:00 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+FECHA = 27/06/2014
+HORA = 12:55:00 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+FECHA = 27/06/2014
+HORA = 12:55:00 am
+IP = 200.111.61.131
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 27/06/2014  HORA = 12:55:00 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+FECHA = 29/06/2014
+HORA = 01:44:46 am
+IP = 190.22.32.62
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+FECHA = 29/06/2014
+HORA = 01:44:46 am
+IP = 190.22.32.62
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+FECHA = 29/06/2014
+HORA = 01:44:46 am
+IP = 190.22.32.62
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 01:44:46 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 02:20:35 am*************************
+FECHA = 29/06/2014
+HORA = 02:20:35 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 29/06/2014  HORA = 02:20:35 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 02:20:35 am*************************
+FECHA = 29/06/2014
+HORA = 02:20:35 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 29/06/2014  HORA = 02:20:35 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+FECHA = 29/06/2014
+HORA = 03:01:23 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+FECHA = 29/06/2014
+HORA = 03:01:23 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+FECHA = 29/06/2014
+HORA = 03:01:23 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 03:01:23 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+FECHA = 29/06/2014
+HORA = 04:19:12 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+FECHA = 29/06/2014
+HORA = 04:19:12 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+FECHA = 29/06/2014
+HORA = 04:19:12 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 04:19:12 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+FECHA = 29/06/2014
+HORA = 04:59:56 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+FECHA = 29/06/2014
+HORA = 04:59:56 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+FECHA = 29/06/2014
+HORA = 04:59:56 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 04:59:56 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+FECHA = 29/06/2014
+HORA = 05:33:34 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+FECHA = 29/06/2014
+HORA = 05:33:34 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+FECHA = 29/06/2014
+HORA = 05:33:34 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 05:33:34 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:36 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:36 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:36 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 05:50:36 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:39 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:39 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:39 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 29/06/2014  HORA = 05:50:39 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+FECHA = 30/06/2014
+HORA = 12:19:55 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+FECHA = 30/06/2014
+HORA = 12:19:55 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+FECHA = 30/06/2014
+HORA = 12:19:55 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 30/06/2014  HORA = 12:19:55 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:58:30 am*************************
+FECHA = 30/06/2014
+HORA = 12:58:30 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 30/06/2014  HORA = 12:58:30 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:58:30 am*************************
+FECHA = 30/06/2014
+HORA = 12:58:30 am
+IP = 186.79.194.196
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 30/06/2014  HORA = 12:58:30 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:01 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:01 pm
+IP = 200.91.9.195
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = jaime
+***********************FECHA = 30/06/2014  HORA = 07:17:01 pm*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:01 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:01 pm
+IP = 200.91.9.195
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 30/06/2014  HORA = 07:17:01 pm*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:25 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:25 pm
+IP = 200.91.9.195
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = jaime
+***********************FECHA = 30/06/2014  HORA = 07:17:25 pm*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:25 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:25 pm
+IP = 200.91.9.195
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 30/06/2014  HORA = 07:17:25 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:40:17 am*************************
+FECHA = 01/07/2014
+HORA = 05:40:17 am
+IP = 190.22.111.151
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 01/07/2014  HORA = 05:40:17 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:40:17 am*************************
+FECHA = 01/07/2014
+HORA = 05:40:17 am
+IP = 190.22.111.151
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 01/07/2014  HORA = 05:40:17 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:41:12 am*************************
+FECHA = 01/07/2014
+HORA = 05:41:12 am
+IP = 190.22.111.151
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 01/07/2014  HORA = 05:41:12 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:41:12 am*************************
+FECHA = 01/07/2014
+HORA = 05:41:12 am
+IP = 190.22.111.151
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 01/07/2014  HORA = 05:41:12 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 07:48:48 pm*************************
+FECHA = 01/07/2014
+HORA = 07:48:48 pm
+IP = 190.22.92.120
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 01/07/2014  HORA = 07:48:48 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 07:48:48 pm*************************
+FECHA = 01/07/2014
+HORA = 07:48:48 pm
+IP = 190.22.92.120
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 01/07/2014  HORA = 07:48:48 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 08:17:28 pm*************************
+FECHA = 01/07/2014
+HORA = 08:17:28 pm
+IP = 190.22.92.120
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 01/07/2014  HORA = 08:17:28 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 08:17:28 pm*************************
+FECHA = 01/07/2014
+HORA = 08:17:28 pm
+IP = 190.22.92.120
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 01/07/2014  HORA = 08:17:28 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:03:56 am*************************
+FECHA = 04/07/2014
+HORA = 05:03:56 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:03:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:03:56 am*************************
+FECHA = 04/07/2014
+HORA = 05:03:56 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:03:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:04:17 am*************************
+FECHA = 04/07/2014
+HORA = 05:04:17 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:04:17 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:04:17 am*************************
+FECHA = 04/07/2014
+HORA = 05:04:17 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:04:17 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:02 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:02 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:21:02 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:02 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:02 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:21:02 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:21:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:21:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:22 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:22 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:21:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:22 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:22 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:21:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:21:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:59 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:59 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+FECHA = 04/07/2014
+HORA = 05:21:59 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:21:59 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+FECHA = 04/07/2014
+HORA = 05:22:02 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+FECHA = 04/07/2014
+HORA = 05:22:02 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+FECHA = 04/07/2014
+HORA = 05:22:02 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:22:02 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+FECHA = 04/07/2014
+HORA = 05:26:39 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+FECHA = 04/07/2014
+HORA = 05:26:39 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+FECHA = 04/07/2014
+HORA = 05:26:39 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 04/07/2014  HORA = 05:26:39 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:31:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:31:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = 17372849-2
+***********************FECHA = 04/07/2014  HORA = 05:31:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:31:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:31:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:31:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:35:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:35:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:35:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 04/07/2014  HORA = 05:35:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+FECHA = 04/07/2014
+HORA = 05:39:37 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+FECHA = 04/07/2014
+HORA = 05:39:37 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+FECHA = 04/07/2014
+HORA = 05:39:37 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 04/07/2014  HORA = 05:39:37 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:16 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:16 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:16 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:46:16 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+FECHA = 04/07/2014
+HORA = 05:47:14 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+FECHA = 04/07/2014
+HORA = 05:47:14 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+FECHA = 04/07/2014
+HORA = 05:47:14 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:47:14 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:51:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:51:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:51:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 04/07/2014  HORA = 05:51:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+FECHA = 04/07/2014
+HORA = 05:55:32 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+FECHA = 04/07/2014
+HORA = 05:55:32 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+FECHA = 04/07/2014
+HORA = 05:55:32 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:55:32 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+FECHA = 04/07/2014
+HORA = 05:57:52 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+FECHA = 04/07/2014
+HORA = 05:57:52 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+FECHA = 04/07/2014
+HORA = 05:57:52 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:57:52 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:58:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:58:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+FECHA = 04/07/2014
+HORA = 05:58:10 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:58:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:30 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:30 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:30 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:59:30 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+FECHA = 04/07/2014
+HORA = 05:59:47 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 05:59:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+FECHA = 04/07/2014
+HORA = 06:10:29 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+FECHA = 04/07/2014
+HORA = 06:10:29 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24289259-3
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+FECHA = 04/07/2014
+HORA = 06:10:29 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 1,28.00000
+CABECERAS :id,curso,item,nota
+DATOS :4,LenguajeyComunicionMedioA,prueba 2,70.00000
+***********************FECHA = 04/07/2014  HORA = 06:10:29 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+FECHA = 04/07/2014
+HORA = 06:18:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+FECHA = 04/07/2014
+HORA = 06:18:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+FECHA = 04/07/2014
+HORA = 06:18:53 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 06:18:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+FECHA = 04/07/2014
+HORA = 06:59:33 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+FECHA = 04/07/2014
+HORA = 06:59:33 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+FECHA = 04/07/2014
+HORA = 06:59:33 am
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 06:59:33 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+FECHA = 04/07/2014
+HORA = 09:21:51 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+FECHA = 04/07/2014
+HORA = 09:21:51 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+FECHA = 04/07/2014
+HORA = 09:21:51 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 09:21:51 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+FECHA = 04/07/2014
+HORA = 09:33:13 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+FECHA = 04/07/2014
+HORA = 09:33:13 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+FECHA = 04/07/2014
+HORA = 09:33:13 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 09:33:13 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+FECHA = 04/07/2014
+HORA = 09:43:02 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+FECHA = 04/07/2014
+HORA = 09:43:02 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+FECHA = 04/07/2014
+HORA = 09:43:02 pm
+IP = 190.22.51.94
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 04/07/2014  HORA = 09:43:02 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+FECHA = 05/07/2014
+HORA = 04:19:27 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+FECHA = 05/07/2014
+HORA = 04:19:27 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+FECHA = 05/07/2014
+HORA = 04:19:27 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 05/07/2014  HORA = 04:19:27 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+FECHA = 05/07/2014
+HORA = 05:03:50 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+FECHA = 05/07/2014
+HORA = 05:03:50 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+FECHA = 05/07/2014
+HORA = 05:03:50 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 05/07/2014  HORA = 05:03:50 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+FECHA = 05/07/2014
+HORA = 05:12:38 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+FECHA = 05/07/2014
+HORA = 05:12:38 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+FECHA = 05/07/2014
+HORA = 05:12:38 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 05/07/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:21 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:21 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:21 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 05/07/2014  HORA = 11:31:21 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:23 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:23 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:23 am
+IP = 190.22.31.232
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 05/07/2014  HORA = 11:31:23 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+FECHA = 06/07/2014
+HORA = 03:57:00 am
+IP = 190.22.101.104
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+FECHA = 06/07/2014
+HORA = 03:57:00 am
+IP = 190.22.101.104
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = 24836901-9
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+FECHA = 06/07/2014
+HORA = 03:57:00 am
+IP = 190.22.101.104
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba Biologia,70.00000
+CABECERAS :id,curso,item,nota
+DATOS :3,Biologia7B,Prueba 2,19.09091
+***********************FECHA = 06/07/2014  HORA = 03:57:00 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:01:31 am*************************
+FECHA = 06/07/2014
+HORA = 04:01:31 am
+IP = 190.22.101.104
+Nombre de log:notas
+Mensaje :Count_notas no ha encontrado registros
+Datos a mostrar :username = Biologia7b
+***********************FECHA = 06/07/2014  HORA = 04:01:31 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:01:31 am*************************
+FECHA = 06/07/2014
+HORA = 04:01:31 am
+IP = 190.22.101.104
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 04:01:31 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************
+FECHA = 09/07/2014
+HORA = 06:39:13 am
+IP = ::1
+Nombre de log:notas
+Mensaje :Count_notas a encontrado registros
+Datos a mostrar :username = jaime
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************
+FECHA = 09/07/2014
+HORA = 06:39:13 am
+IP = ::1
+Nombre de log:notas
+Mensaje :funcion notas a encontrado resultados
+Datos a mostrar :username = jaime
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************
+FECHA = 09/07/2014
+HORA = 06:39:13 am
+IP = ::1
+Nombre de log:notas
+Mensaje :ingreso a notas
+
+CABECERAS :id,curso,item,nota
+DATOS :6,finanza,prueba 1,1.00000
+***********************FECHA = 09/07/2014  HORA = 06:39:13 am*************************

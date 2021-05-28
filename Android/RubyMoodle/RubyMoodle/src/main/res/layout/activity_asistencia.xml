@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Principal" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:id="@+id/textos"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_height="35dp"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#ff000000"
+                android:text="Asistencia"
+                android:background="@drawable/edittext_rounded_corners"
+                android:textSize="25sp"
+
+                />
+        </LinearLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext_rounded_corners"
+        android:id="@+id/frameLayout"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right">
+
+               <!-- <TextView
+                    android:id="@+id/textView"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:textColor="#372c24"
+                    android:text="  Porcentaje presente:  "
+                    android:layout_margin="2dp"
+                    android:background="@drawable/edittext_rounded_corners" />
+                -->
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:textColor="#372c24"
+                    android:text="  Días presente:  "
+                    android:layout_margin="2dp"
+                    android:background="@drawable/edittext_rounded_corners" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:textColor="#372c24"
+                    android:text="  Días ausente:  "
+                    android:layout_margin="2dp"
+                    android:background="@drawable/edittext_rounded_corners" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:textColor="#372c24"
+                    android:text="  Días ausente justificado:  "
+                    android:layout_margin="2dp"
+                    android:background="@drawable/edittext_rounded_corners" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left">
+
+          <!--      <TextView
+                    android:id="@+id/porcentajepresente"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:textColor="#372c24"
+                    android:background="@drawable/edittext_rounded_corners"
+                    android:layout_margin="2dp" />-->
+
+                <TextView
+                    android:id="@+id/diaspresente"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:textColor="#372c24"
+                    android:background="@drawable/edittext_rounded_corners"
+                    android:layout_margin="2dp" />
+
+                <TextView
+                    android:id="@+id/diasausente"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:textColor="#372c24"
+                    android:background="@drawable/edittext_rounded_corners"
+                    android:layout_margin="2dp" />
+
+                <TextView
+                    android:id="@+id/diasausentejustificado"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:textColor="#372c24"
+                    android:background="@drawable/edittext_rounded_corners"
+                    android:layout_margin="2dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="2dp">
+
+        <ListView
+            android:id="@+id/listaasistencia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/item_asistencia"
+            android:background="@drawable/estilo_asistencia">
+        </ListView>
+    </FrameLayout>
+
+</LinearLayout>

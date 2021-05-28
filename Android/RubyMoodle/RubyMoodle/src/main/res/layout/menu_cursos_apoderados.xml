@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="#f4f2f3"
+    android:clickable="false">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@android:color/transparent"
+            android:orientation="vertical">
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/edittext_rounded_corners"
+                android:layout_margin="@dimen/activity_vertical_margin">
+
+                <LinearLayout
+                    android:id="@+id/textos"
+                    android:layout_weight="1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:textColor="#372c24"
+                        android:text="Asignatura seleccionada:"
+                        android:layout_margin="@dimen/abc_action_bar_icon_vertical_padding"
+                        android:background="@drawable/edittext_rounded_corners"/>
+
+
+                    <TextView
+                        android:id="@+id/usr_curso"
+                        android:layout_height="wrap_content"
+                        android:layout_width="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="left"
+                        android:textColor="#372c24"
+                        android:background="@drawable/edittext_rounded_corners"
+
+                        android:layout_margin="@dimen/abc_action_bar_icon_vertical_padding" />
+
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:background="@drawable/edittext_rounded_corners">
+
+                <LinearLayout
+                    android:id="@+id/botones"
+                    android:layout_weight="1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:baselineAligned="false"
+                        android:background="@android:color/transparent"
+                        android:layout_gravity="center_horizontal">
+
+                        <TextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="#372c24"
+                            android:text="Información del profesor:"
+                            android:id="@+id/textView2" />
+
+                        <ImageButton
+                            android:src="@drawable/profesor"
+                            android:id="@+id/miProfesor"
+                            android:layout_weight="1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+
+                            android:layout_marginRight="-61dp"
+                            android:layout_marginLeft="-56dp"
+                            android:background="@drawable/edittext_rounded_corners"
+                            android:layout_margin="@dimen/activity_vertical_margin"
+                            android:layout_gravity="center_horizontal|bottom|right"
+                            android:clickable="true"
+                            android:textAlignment="center" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal">
+
+                        <TextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="#372c24"
+                            android:text="Revisa los documentos subidos a Moodle:"
+                            android:id="@+id/textView" />
+
+                        <ImageButton
+                            android:src="@drawable/documentos"
+                            android:id="@+id/misDocumentos"
+                            android:layout_weight="1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+
+                            android:layout_marginRight="-61dp"
+                            android:layout_marginLeft="-56dp"
+                            android:background="@drawable/edittext_rounded_corners"
+                            android:layout_margin="@dimen/activity_vertical_margin"
+                            android:layout_gravity="center_horizontal|bottom|right"
+                            android:clickable="true"
+                            android:textAlignment="center" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </FrameLayout>
+
+
+
+
+        </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,2158 @@
+
+***********************FECHA = 22/06/2014  HORA = 09:24:05 pm*************************
+FECHA = 22/06/2014
+HORA = 09:24:05 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,33
+***********************FECHA = 22/06/2014  HORA = 09:24:05 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:23:01 pm*************************
+FECHA = 22/06/2014
+HORA = 10:23:01 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:23:01 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:23:19 pm*************************
+FECHA = 22/06/2014
+HORA = 10:23:19 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:23:19 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:23:22 pm*************************
+FECHA = 22/06/2014
+HORA = 10:23:22 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:23:22 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:23:26 pm*************************
+FECHA = 22/06/2014
+HORA = 10:23:26 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:23:26 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:25:45 pm*************************
+FECHA = 22/06/2014
+HORA = 10:25:45 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 22/06/2014  HORA = 10:25:45 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:26:03 pm*************************
+FECHA = 22/06/2014
+HORA = 10:26:03 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 22/06/2014  HORA = 10:26:03 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:26:22 pm*************************
+FECHA = 22/06/2014
+HORA = 10:26:22 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 22/06/2014  HORA = 10:26:22 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:28:52 pm*************************
+FECHA = 22/06/2014
+HORA = 10:28:52 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 22/06/2014  HORA = 10:28:52 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:43:57 pm*************************
+FECHA = 22/06/2014
+HORA = 10:43:57 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:43:57 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:46:55 pm*************************
+FECHA = 22/06/2014
+HORA = 10:46:55 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 22/06/2014  HORA = 10:46:55 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:44:51 pm*************************
+FECHA = 22/06/2014
+HORA = 11:44:51 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 22/06/2014  HORA = 11:44:51 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:49:51 pm*************************
+FECHA = 22/06/2014
+HORA = 11:49:51 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7A,80
+***********************FECHA = 22/06/2014  HORA = 11:49:51 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:21:11 am*************************
+FECHA = 23/06/2014
+HORA = 01:21:11 am
+IP = 201.214.167.141
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 23/06/2014  HORA = 01:21:11 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 03:12:19 pm*************************
+FECHA = 23/06/2014
+HORA = 03:12:19 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 03:12:19 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 03:22:57 pm*************************
+FECHA = 23/06/2014
+HORA = 03:22:57 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 03:22:57 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:38:28 pm*************************
+FECHA = 23/06/2014
+HORA = 04:38:28 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 04:38:28 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:39:24 pm*************************
+FECHA = 23/06/2014
+HORA = 04:39:24 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 04:39:24 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:45:33 pm*************************
+FECHA = 23/06/2014
+HORA = 04:45:33 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 04:45:33 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 04:48:50 pm*************************
+FECHA = 23/06/2014
+HORA = 04:48:50 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 04:48:50 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:44:18 pm*************************
+FECHA = 23/06/2014
+HORA = 10:44:18 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 10:44:18 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:45:55 pm*************************
+FECHA = 23/06/2014
+HORA = 10:45:55 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 10:45:55 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:46:07 pm*************************
+FECHA = 23/06/2014
+HORA = 10:46:07 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 10:46:07 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:25:43 pm*************************
+FECHA = 23/06/2014
+HORA = 11:25:43 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 11:25:43 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:25:46 pm*************************
+FECHA = 23/06/2014
+HORA = 11:25:46 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 11:25:46 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:25:51 pm*************************
+FECHA = 23/06/2014
+HORA = 11:25:51 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 11:25:51 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:39:36 pm*************************
+FECHA = 23/06/2014
+HORA = 11:39:36 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 11:39:36 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:21 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:21 pm
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 23/06/2014  HORA = 11:51:21 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:03:36 am*************************
+FECHA = 24/06/2014
+HORA = 12:03:36 am
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 12:03:36 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:04:48 am*************************
+FECHA = 24/06/2014
+HORA = 12:04:48 am
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 12:04:48 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:25:24 am*************************
+FECHA = 24/06/2014
+HORA = 12:25:24 am
+IP = 190.22.50.129
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 12:25:24 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:51:39 pm*************************
+FECHA = 24/06/2014
+HORA = 01:51:39 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 01:51:39 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:51:43 pm*************************
+FECHA = 24/06/2014
+HORA = 01:51:43 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 01:51:43 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:00:58 pm*************************
+FECHA = 24/06/2014
+HORA = 02:00:58 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:00:58 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:13 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:13 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:04:13 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:21 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:21 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:04:21 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:08:57 pm*************************
+FECHA = 24/06/2014
+HORA = 02:08:57 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:08:57 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:38 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:38 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:35:38 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:42:36 pm*************************
+FECHA = 24/06/2014
+HORA = 02:42:36 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:42:36 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:44:03 pm*************************
+FECHA = 24/06/2014
+HORA = 02:44:03 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:44:03 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:15 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:15 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:47:15 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:53 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:53 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 02:47:53 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:08:59 pm*************************
+FECHA = 24/06/2014
+HORA = 03:08:59 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 24/06/2014  HORA = 03:08:59 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:48:42 pm*************************
+FECHA = 24/06/2014
+HORA = 03:48:42 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 24/06/2014  HORA = 03:48:42 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:33:22 pm*************************
+FECHA = 24/06/2014
+HORA = 04:33:22 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 24/06/2014  HORA = 04:33:22 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:33:24 pm*************************
+FECHA = 24/06/2014
+HORA = 04:33:24 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 24/06/2014  HORA = 04:33:24 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:33:32 pm*************************
+FECHA = 24/06/2014
+HORA = 04:33:32 pm
+IP = 190.22.98.117
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 24/06/2014  HORA = 04:33:32 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 09:32:43 pm*************************
+FECHA = 24/06/2014
+HORA = 09:32:43 pm
+IP = 200.29.165.195
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 24/06/2014  HORA = 09:32:43 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 03:32:42 pm*************************
+FECHA = 25/06/2014
+HORA = 03:32:42 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 03:32:42 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 03:50:44 pm*************************
+FECHA = 25/06/2014
+HORA = 03:50:44 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 03:50:44 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 03:51:05 pm*************************
+FECHA = 25/06/2014
+HORA = 03:51:05 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 03:51:05 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 04:22:40 pm*************************
+FECHA = 25/06/2014
+HORA = 04:22:40 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 04:22:40 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 04:22:47 pm*************************
+FECHA = 25/06/2014
+HORA = 04:22:47 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 04:22:47 pm*************************
+
+***********************FECHA = 25/06/2014  HORA = 05:15:17 pm*************************
+FECHA = 25/06/2014
+HORA = 05:15:17 pm
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 25/06/2014  HORA = 05:15:17 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 04:25:26 am*************************
+FECHA = 26/06/2014
+HORA = 04:25:26 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 04:25:26 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 04:26:35 am*************************
+FECHA = 26/06/2014
+HORA = 04:26:35 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 04:26:35 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:23:01 am*************************
+FECHA = 26/06/2014
+HORA = 05:23:01 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 05:23:01 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:24:00 am*************************
+FECHA = 26/06/2014
+HORA = 06:24:00 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 06:24:00 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:50:07 am*************************
+FECHA = 26/06/2014
+HORA = 06:50:07 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 06:50:07 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:04:57 am*************************
+FECHA = 26/06/2014
+HORA = 07:04:57 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 07:04:57 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:05:00 am*************************
+FECHA = 26/06/2014
+HORA = 07:05:00 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 07:05:00 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:17:45 am*************************
+FECHA = 26/06/2014
+HORA = 07:17:45 am
+IP = 190.22.8.159
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 26/06/2014  HORA = 07:17:45 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:18:15 am*************************
+FECHA = 26/06/2014
+HORA = 07:18:15 am
+IP = 201.214.167.141
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 07:18:15 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:49 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:49 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 06:42:49 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:45 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:45 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 26/06/2014  HORA = 06:43:45 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:27 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:27 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:18:27 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:23 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:23 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:22:23 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:29 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:29 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:22:29 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:42 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:42 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:22:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:50 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:50 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:35:50 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:35:57 pm*************************
+FECHA = 26/06/2014
+HORA = 08:35:57 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 08:35:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:15:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:15:55 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:15:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:21 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:21 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:24:21 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:25:06 pm*************************
+FECHA = 26/06/2014
+HORA = 09:25:06 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:25:06 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:02 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:02 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:30:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:18 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:31:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:51 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:51 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:31:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:33:02 pm*************************
+FECHA = 26/06/2014
+HORA = 09:33:02 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:33:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:14 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:36:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:26 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:26 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:39:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:33 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 09:39:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 10:10:44 pm*************************
+FECHA = 26/06/2014
+HORA = 10:10:44 pm
+IP = 190.22.67.233
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 26/06/2014  HORA = 10:10:44 pm*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:10 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:10 am
+IP = 200.111.61.131
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 27/06/2014  HORA = 12:51:10 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:53:58 am*************************
+FECHA = 27/06/2014
+HORA = 12:53:58 am
+IP = 200.111.61.131
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 27/06/2014  HORA = 12:53:58 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:55:06 am*************************
+FECHA = 27/06/2014
+HORA = 12:55:06 am
+IP = 200.111.61.131
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 27/06/2014  HORA = 12:55:06 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:34:58 am*************************
+FECHA = 29/06/2014
+HORA = 01:34:58 am
+IP = 190.22.32.62
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 01:34:58 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:36:40 am*************************
+FECHA = 29/06/2014
+HORA = 01:36:40 am
+IP = 190.22.32.62
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 01:36:40 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 01:44:58 am*************************
+FECHA = 29/06/2014
+HORA = 01:44:58 am
+IP = 190.22.32.62
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 01:44:58 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 02:20:38 am*************************
+FECHA = 29/06/2014
+HORA = 02:20:38 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 02:20:38 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 02:23:30 am*************************
+FECHA = 29/06/2014
+HORA = 02:23:30 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 02:23:30 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:01:24 am*************************
+FECHA = 29/06/2014
+HORA = 03:01:24 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 03:01:24 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:07:43 am*************************
+FECHA = 29/06/2014
+HORA = 03:07:43 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 03:07:43 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:18:03 am*************************
+FECHA = 29/06/2014
+HORA = 03:18:03 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 03:18:03 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 03:43:07 am*************************
+FECHA = 29/06/2014
+HORA = 03:43:07 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 03:43:07 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:11:19 am*************************
+FECHA = 29/06/2014
+HORA = 04:11:19 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 04:11:19 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:14:56 am*************************
+FECHA = 29/06/2014
+HORA = 04:14:56 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 04:14:56 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:18:33 am*************************
+FECHA = 29/06/2014
+HORA = 04:18:33 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 04:18:33 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:18:44 am*************************
+FECHA = 29/06/2014
+HORA = 04:18:44 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 04:18:44 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:19:04 am*************************
+FECHA = 29/06/2014
+HORA = 04:19:04 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 04:19:04 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:19:52 am*************************
+FECHA = 29/06/2014
+HORA = 04:19:52 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 04:19:52 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:42:27 am*************************
+FECHA = 29/06/2014
+HORA = 04:42:27 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 04:42:27 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 04:42:30 am*************************
+FECHA = 29/06/2014
+HORA = 04:42:30 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 29/06/2014  HORA = 04:42:30 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:17:35 am*************************
+FECHA = 29/06/2014
+HORA = 05:17:35 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 05:17:35 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:17 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:17 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 05:50:17 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:50:37 am*************************
+FECHA = 29/06/2014
+HORA = 05:50:37 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 05:50:37 am*************************
+
+***********************FECHA = 29/06/2014  HORA = 05:51:05 am*************************
+FECHA = 29/06/2014
+HORA = 05:51:05 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 29/06/2014  HORA = 05:51:05 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:19:52 am*************************
+FECHA = 30/06/2014
+HORA = 12:19:52 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 30/06/2014  HORA = 12:19:52 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:58:32 am*************************
+FECHA = 30/06/2014
+HORA = 12:58:32 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 30/06/2014  HORA = 12:58:32 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 12:58:35 am*************************
+FECHA = 30/06/2014
+HORA = 12:58:35 am
+IP = 186.79.194.196
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 30/06/2014  HORA = 12:58:35 am*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:05 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:05 pm
+IP = 200.91.9.195
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 30/06/2014  HORA = 07:17:05 pm*************************
+
+***********************FECHA = 30/06/2014  HORA = 07:17:13 pm*************************
+FECHA = 30/06/2014
+HORA = 07:17:13 pm
+IP = 200.91.9.195
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 30/06/2014  HORA = 07:17:13 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:18:29 am*************************
+FECHA = 01/07/2014
+HORA = 05:18:29 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:18:29 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:20:26 am*************************
+FECHA = 01/07/2014
+HORA = 05:20:26 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:20:26 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:21:43 am*************************
+FECHA = 01/07/2014
+HORA = 05:21:43 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:21:43 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:23:10 am*************************
+FECHA = 01/07/2014
+HORA = 05:23:10 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:23:10 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:27:35 am*************************
+FECHA = 01/07/2014
+HORA = 05:27:35 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:27:35 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:28:45 am*************************
+FECHA = 01/07/2014
+HORA = 05:28:45 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:28:45 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:31:14 am*************************
+FECHA = 01/07/2014
+HORA = 05:31:14 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:31:14 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:32:14 am*************************
+FECHA = 01/07/2014
+HORA = 05:32:14 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:32:14 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:33:34 am*************************
+FECHA = 01/07/2014
+HORA = 05:33:34 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:33:34 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:34:40 am*************************
+FECHA = 01/07/2014
+HORA = 05:34:40 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:34:40 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:35:24 am*************************
+FECHA = 01/07/2014
+HORA = 05:35:24 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:35:24 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:36:41 am*************************
+FECHA = 01/07/2014
+HORA = 05:36:41 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:36:41 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 05:37:29 am*************************
+FECHA = 01/07/2014
+HORA = 05:37:29 am
+IP = 190.22.111.151
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 05:37:29 am*************************
+
+***********************FECHA = 01/07/2014  HORA = 06:56:10 pm*************************
+FECHA = 01/07/2014
+HORA = 06:56:10 pm
+IP = 190.22.92.120
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 06:56:10 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 07:48:42 pm*************************
+FECHA = 01/07/2014
+HORA = 07:48:42 pm
+IP = 190.22.92.120
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 07:48:42 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 07:48:45 pm*************************
+FECHA = 01/07/2014
+HORA = 07:48:45 pm
+IP = 190.22.92.120
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 07:48:45 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 07:48:51 pm*************************
+FECHA = 01/07/2014
+HORA = 07:48:51 pm
+IP = 190.22.92.120
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 07:48:51 pm*************************
+
+***********************FECHA = 01/07/2014  HORA = 08:17:24 pm*************************
+FECHA = 01/07/2014
+HORA = 08:17:24 pm
+IP = 190.22.92.120
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 01/07/2014  HORA = 08:17:24 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:03:50 am*************************
+FECHA = 04/07/2014
+HORA = 05:03:50 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 04/07/2014  HORA = 05:03:50 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:10:16 am*************************
+FECHA = 04/07/2014
+HORA = 05:10:16 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 04/07/2014  HORA = 05:10:16 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:26:38 am*************************
+FECHA = 04/07/2014
+HORA = 05:26:38 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 04/07/2014  HORA = 05:26:38 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:31:45 am*************************
+FECHA = 04/07/2014
+HORA = 05:31:45 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 04/07/2014  HORA = 05:31:45 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:42:14 am*************************
+FECHA = 04/07/2014
+HORA = 05:42:14 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 04/07/2014  HORA = 05:42:14 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:18:51 am*************************
+FECHA = 04/07/2014
+HORA = 06:18:51 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 06:18:51 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:59:31 am*************************
+FECHA = 04/07/2014
+HORA = 06:59:31 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 06:59:31 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:22:32 pm*************************
+FECHA = 04/07/2014
+HORA = 09:22:32 pm
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 09:22:32 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:24:15 pm*************************
+FECHA = 04/07/2014
+HORA = 09:24:15 pm
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 09:24:15 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:33:10 pm*************************
+FECHA = 04/07/2014
+HORA = 09:33:10 pm
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 09:33:10 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:43:00 pm*************************
+FECHA = 04/07/2014
+HORA = 09:43:00 pm
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 09:43:00 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:46:02 pm*************************
+FECHA = 04/07/2014
+HORA = 09:46:02 pm
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 04/07/2014  HORA = 09:46:02 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 01:02:48 am*************************
+FECHA = 05/07/2014
+HORA = 01:02:48 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 05/07/2014  HORA = 01:02:48 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 01:16:28 am*************************
+FECHA = 05/07/2014
+HORA = 01:16:28 am
+IP = 190.22.51.94
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 05/07/2014  HORA = 01:16:28 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 04:33:00 am*************************
+FECHA = 05/07/2014
+HORA = 04:33:00 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 04:33:00 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 04:39:50 am*************************
+FECHA = 05/07/2014
+HORA = 04:39:50 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 04:39:50 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:03:47 am*************************
+FECHA = 05/07/2014
+HORA = 05:03:47 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 05:03:47 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:12:21 am*************************
+FECHA = 05/07/2014
+HORA = 05:12:21 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 05:12:21 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:12:51 am*************************
+FECHA = 05/07/2014
+HORA = 05:12:51 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 05:12:51 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:19 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:19 am
+IP = 190.22.31.232
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 11:31:19 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:35:31 pm*************************
+FECHA = 05/07/2014
+HORA = 05:35:31 pm
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 05:35:31 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:23:10 pm*************************
+FECHA = 05/07/2014
+HORA = 06:23:10 pm
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 06:23:10 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:23:32 pm*************************
+FECHA = 05/07/2014
+HORA = 06:23:32 pm
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 06:23:32 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:23:44 pm*************************
+FECHA = 05/07/2014
+HORA = 06:23:44 pm
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 05/07/2014  HORA = 06:23:44 pm*************************
+
+***********************FECHA = 06/07/2014  HORA = 12:46:51 am*************************
+FECHA = 06/07/2014
+HORA = 12:46:51 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 12:46:51 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 12:48:44 am*************************
+FECHA = 06/07/2014
+HORA = 12:48:44 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 12:48:44 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 12:50:54 am*************************
+FECHA = 06/07/2014
+HORA = 12:50:54 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 06/07/2014  HORA = 12:50:54 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 12:53:46 am*************************
+FECHA = 06/07/2014
+HORA = 12:53:46 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 12:53:46 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:03:57 am*************************
+FECHA = 06/07/2014
+HORA = 01:03:57 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 01:03:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:12:56 am*************************
+FECHA = 06/07/2014
+HORA = 01:12:56 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :LenguajeyComunicion1Medio A,80
+***********************FECHA = 06/07/2014  HORA = 01:12:56 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:16:23 am*************************
+FECHA = 06/07/2014
+HORA = 01:16:23 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:16:23 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:44:13 am*************************
+FECHA = 06/07/2014
+HORA = 01:44:13 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:44:13 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:44:33 am*************************
+FECHA = 06/07/2014
+HORA = 01:44:33 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:44:33 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:45:52 am*************************
+FECHA = 06/07/2014
+HORA = 01:45:52 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:45:52 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:46:01 am*************************
+FECHA = 06/07/2014
+HORA = 01:46:01 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:46:01 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 01:47:49 am*************************
+FECHA = 06/07/2014
+HORA = 01:47:49 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 01:47:49 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:13:15 am*************************
+FECHA = 06/07/2014
+HORA = 02:13:15 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 06/07/2014  HORA = 02:13:15 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:24:42 am*************************
+FECHA = 06/07/2014
+HORA = 02:24:42 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Finanzas,3
+CABECERAS :fullname,asistencia
+DATOS :calculo,70
+***********************FECHA = 06/07/2014  HORA = 02:24:42 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:56:58 am*************************
+FECHA = 06/07/2014
+HORA = 03:56:58 am
+IP = 190.22.101.104
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Biologia7B,80
+***********************FECHA = 06/07/2014  HORA = 03:56:58 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 07:05:25 am*************************
+FECHA = 09/07/2014
+HORA = 07:05:25 am
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 07:05:25 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 07:21:15 am*************************
+FECHA = 09/07/2014
+HORA = 07:21:15 am
+IP = ::1
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 07:21:15 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 07:23:06 am*************************
+FECHA = 09/07/2014
+HORA = 07:23:06 am
+IP = ::1
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 07:23:06 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 07:24:02 am*************************
+FECHA = 09/07/2014
+HORA = 07:24:02 am
+IP = ::1
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 07:24:02 am*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:30:38 pm*************************
+FECHA = 09/07/2014
+HORA = 12:30:38 pm
+IP = 192.168.0.6
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:30:38 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:42:57 pm*************************
+FECHA = 09/07/2014
+HORA = 12:42:57 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:42:57 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:44:58 pm*************************
+FECHA = 09/07/2014
+HORA = 12:44:58 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:44:58 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:51:26 pm*************************
+FECHA = 09/07/2014
+HORA = 12:51:26 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:51:26 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:55:25 pm*************************
+FECHA = 09/07/2014
+HORA = 12:55:25 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:55:25 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 12:59:52 pm*************************
+FECHA = 09/07/2014
+HORA = 12:59:52 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 12:59:52 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 01:01:58 pm*************************
+FECHA = 09/07/2014
+HORA = 01:01:58 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 01:01:58 pm*************************
+
+***********************FECHA = 09/07/2014  HORA = 01:16:31 pm*************************
+FECHA = 09/07/2014
+HORA = 01:16:31 pm
+IP = 192.168.0.9
+Nombre de log:asistencia
+Mensaje :ingreso a asistencia
+
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Circuitos,3
+CABECERAS :fullname,asistencia
+DATOS :Protones,3
+***********************FECHA = 09/07/2014  HORA = 01:16:31 pm*************************

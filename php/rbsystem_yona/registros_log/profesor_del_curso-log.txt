@@ -1,0 +1,18 @@
+
+***********************FECHA = 24/06/2014  HORA = 09:06:37 pm*************************
+FECHA = 24/06/2014
+HORA = 09:06:37 pm
+IP = ::1
+Nombre de log:profesor_del_curso
+Mensaje :funcion count_profesor_del_curso a encontrado registros
+Datos a mostrar :curso= finanza
+***********************FECHA = 24/06/2014  HORA = 09:06:37 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 09:06:37 pm*************************
+FECHA = 24/06/2014
+HORA = 09:06:37 pm
+IP = ::1
+Nombre de log:profesor_del_curso
+Mensaje :funcion profesor_del_curso a traido registros
+Datos a mostrar :curso= finanza
+***********************FECHA = 24/06/2014  HORA = 09:06:37 pm*************************

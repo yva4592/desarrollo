@@ -1,0 +1,4708 @@
+
+***********************FECHA = 22/06/2014  HORA = 09:24:27 pm*************************
+FECHA = 22/06/2014
+HORA = 09:24:27 pm
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :2,2,Biologia7B,3,joojdf
+***********************FECHA = 22/06/2014  HORA = 09:24:27 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:32:16 pm*************************
+FECHA = 22/06/2014
+HORA = 09:32:16 pm
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :2,2,Biologia7B,3,joojdf
+***********************FECHA = 22/06/2014  HORA = 09:32:16 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:44:56 pm*************************
+FECHA = 22/06/2014
+HORA = 10:44:56 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:44:56 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:35:51 am*************************
+FECHA = 23/06/2014
+HORA = 02:35:51 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2
+CABECERAS :id,category,fullname,id_curso,name
+DATOS :2,2,Biologia7B,3,joojdf
+***********************FECHA = 23/06/2014  HORA = 02:35:51 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:39:02 am*************************
+FECHA = 23/06/2014
+HORA = 02:39:02 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 02:39:02 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:53:11 am*************************
+FECHA = 23/06/2014
+HORA = 02:53:11 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 02:53:11 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:23:52 pm*************************
+FECHA = 23/06/2014
+HORA = 08:23:52 pm
+IP = 200.111.61.131
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 08:23:52 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:51:56 pm*************************
+FECHA = 23/06/2014
+HORA = 08:51:56 pm
+IP = 200.72.240.3
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 08:51:56 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:28:38 pm*************************
+FECHA = 23/06/2014
+HORA = 10:28:38 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:28:38 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:28:48 pm*************************
+FECHA = 23/06/2014
+HORA = 10:28:48 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:28:48 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:29:01 pm*************************
+FECHA = 23/06/2014
+HORA = 10:29:01 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:29:01 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:29:10 pm*************************
+FECHA = 23/06/2014
+HORA = 10:29:10 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:29:10 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:29:18 pm*************************
+FECHA = 23/06/2014
+HORA = 10:29:18 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:29:18 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:29:28 pm*************************
+FECHA = 23/06/2014
+HORA = 10:29:28 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:29:28 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:29:51 pm*************************
+FECHA = 23/06/2014
+HORA = 10:29:51 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 10:29:51 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:30:03 pm*************************
+FECHA = 23/06/2014
+HORA = 10:30:03 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 10:30:03 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 10:46:50 pm*************************
+FECHA = 23/06/2014
+HORA = 10:46:50 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 10:46:50 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:39:31 pm*************************
+FECHA = 23/06/2014
+HORA = 11:39:31 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:39:31 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:39:51 pm*************************
+FECHA = 23/06/2014
+HORA = 11:39:51 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:39:51 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:40:23 pm*************************
+FECHA = 23/06/2014
+HORA = 11:40:23 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:40:23 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:40:43 pm*************************
+FECHA = 23/06/2014
+HORA = 11:40:43 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 23/06/2014  HORA = 11:40:43 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:48:26 pm*************************
+FECHA = 23/06/2014
+HORA = 11:48:26 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:48:26 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:48:28 pm*************************
+FECHA = 23/06/2014
+HORA = 11:48:28 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:48:28 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:16 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:16 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:51:16 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:31 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:31 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:51:31 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:33 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:33 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:51:33 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 11:51:54 pm*************************
+FECHA = 23/06/2014
+HORA = 11:51:54 pm
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 11:51:54 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:04:43 am*************************
+FECHA = 24/06/2014
+HORA = 12:04:43 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:04:43 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:04:51 am*************************
+FECHA = 24/06/2014
+HORA = 12:04:51 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:04:51 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:05:33 am*************************
+FECHA = 24/06/2014
+HORA = 12:05:33 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:05:33 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:05:37 am*************************
+FECHA = 24/06/2014
+HORA = 12:05:37 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:05:37 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:22:38 am*************************
+FECHA = 24/06/2014
+HORA = 12:22:38 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:22:38 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:22:43 am*************************
+FECHA = 24/06/2014
+HORA = 12:22:43 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:22:43 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:25:31 am*************************
+FECHA = 24/06/2014
+HORA = 12:25:31 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:25:31 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:25:33 am*************************
+FECHA = 24/06/2014
+HORA = 12:25:33 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:25:33 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:27:12 am*************************
+FECHA = 24/06/2014
+HORA = 12:27:12 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:27:12 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:36:49 am*************************
+FECHA = 24/06/2014
+HORA = 12:36:49 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:36:49 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:38:15 am*************************
+FECHA = 24/06/2014
+HORA = 12:38:15 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:38:15 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:38:18 am*************************
+FECHA = 24/06/2014
+HORA = 12:38:18 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:38:18 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:38:22 am*************************
+FECHA = 24/06/2014
+HORA = 12:38:22 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:38:22 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:44:10 am*************************
+FECHA = 24/06/2014
+HORA = 12:44:10 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:44:10 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:45:18 am*************************
+FECHA = 24/06/2014
+HORA = 12:45:18 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:45:18 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:51:32 am*************************
+FECHA = 24/06/2014
+HORA = 12:51:32 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:51:32 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:51:40 am*************************
+FECHA = 24/06/2014
+HORA = 12:51:40 am
+IP = 69.171.237.119
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:51:40 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:51:48 am*************************
+FECHA = 24/06/2014
+HORA = 12:51:48 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:51:48 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:56:55 am*************************
+FECHA = 24/06/2014
+HORA = 12:56:55 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:56:55 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:59:59 am*************************
+FECHA = 24/06/2014
+HORA = 12:59:59 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:59:59 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:01 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:01 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:01 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:01 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:02 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:02 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:02 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:02 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:02 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:00:10 am*************************
+FECHA = 24/06/2014
+HORA = 01:00:10 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:00:10 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:10:29 am*************************
+FECHA = 24/06/2014
+HORA = 01:10:29 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:10:29 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:10:32 am*************************
+FECHA = 24/06/2014
+HORA = 01:10:32 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:10:32 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:10:44 am*************************
+FECHA = 24/06/2014
+HORA = 01:10:44 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:10:44 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:10:51 am*************************
+FECHA = 24/06/2014
+HORA = 01:10:51 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:10:51 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:12:04 am*************************
+FECHA = 24/06/2014
+HORA = 01:12:04 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:12:04 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:16:17 am*************************
+FECHA = 24/06/2014
+HORA = 01:16:17 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:16:17 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:19:19 am*************************
+FECHA = 24/06/2014
+HORA = 01:19:19 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:19:19 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:25:17 am*************************
+FECHA = 24/06/2014
+HORA = 01:25:17 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:25:17 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:25:19 am*************************
+FECHA = 24/06/2014
+HORA = 01:25:19 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:25:19 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:25:57 am*************************
+FECHA = 24/06/2014
+HORA = 01:25:57 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:25:57 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:27:39 am*************************
+FECHA = 24/06/2014
+HORA = 01:27:39 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:27:39 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:33:00 am*************************
+FECHA = 24/06/2014
+HORA = 01:33:00 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:33:00 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:33:18 am*************************
+FECHA = 24/06/2014
+HORA = 01:33:18 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:33:18 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:35:38 am*************************
+FECHA = 24/06/2014
+HORA = 01:35:38 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:35:38 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:39:54 am*************************
+FECHA = 24/06/2014
+HORA = 01:39:54 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:39:54 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:44:54 am*************************
+FECHA = 24/06/2014
+HORA = 01:44:54 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:44:54 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:49:28 am*************************
+FECHA = 24/06/2014
+HORA = 01:49:28 am
+IP = 190.22.50.129
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:49:28 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:17:36 pm*************************
+FECHA = 24/06/2014
+HORA = 12:17:36 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:17:36 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:19:01 pm*************************
+FECHA = 24/06/2014
+HORA = 12:19:01 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 12:19:01 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:26:38 pm*************************
+FECHA = 24/06/2014
+HORA = 12:26:38 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 12:26:38 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:50:05 pm*************************
+FECHA = 24/06/2014
+HORA = 01:50:05 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 01:50:05 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:51:25 pm*************************
+FECHA = 24/06/2014
+HORA = 01:51:25 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:51:25 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:54:08 pm*************************
+FECHA = 24/06/2014
+HORA = 01:54:08 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:54:08 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:54:45 pm*************************
+FECHA = 24/06/2014
+HORA = 01:54:45 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 01:54:45 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 01:54:59 pm*************************
+FECHA = 24/06/2014
+HORA = 01:54:59 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 01:54:59 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:00:53 pm*************************
+FECHA = 24/06/2014
+HORA = 02:00:53 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:00:53 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:01:00 pm*************************
+FECHA = 24/06/2014
+HORA = 02:01:00 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:01:00 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:01:02 pm*************************
+FECHA = 24/06/2014
+HORA = 02:01:02 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:01:02 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:01:45 pm*************************
+FECHA = 24/06/2014
+HORA = 02:01:45 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:01:45 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:31 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:31 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:04:31 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:04:33 pm*************************
+FECHA = 24/06/2014
+HORA = 02:04:33 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:04:33 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:08:59 pm*************************
+FECHA = 24/06/2014
+HORA = 02:08:59 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:08:59 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:09:53 pm*************************
+FECHA = 24/06/2014
+HORA = 02:09:53 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:09:53 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:09:58 pm*************************
+FECHA = 24/06/2014
+HORA = 02:09:58 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:09:58 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:10:01 pm*************************
+FECHA = 24/06/2014
+HORA = 02:10:01 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:10:01 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:10:22 pm*************************
+FECHA = 24/06/2014
+HORA = 02:10:22 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:10:22 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:10:35 pm*************************
+FECHA = 24/06/2014
+HORA = 02:10:35 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:10:35 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:18:26 pm*************************
+FECHA = 24/06/2014
+HORA = 02:18:26 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:18:26 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:19:09 pm*************************
+FECHA = 24/06/2014
+HORA = 02:19:09 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 02:19:09 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:20:49 pm*************************
+FECHA = 24/06/2014
+HORA = 02:20:49 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:20:49 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:20:57 pm*************************
+FECHA = 24/06/2014
+HORA = 02:20:57 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:20:57 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:25:21 pm*************************
+FECHA = 24/06/2014
+HORA = 02:25:21 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:25:21 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:27:53 pm*************************
+FECHA = 24/06/2014
+HORA = 02:27:53 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:27:53 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:03 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:03 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:35:03 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:33 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:33 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:35:33 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:42 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:42 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:35:42 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:48 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:48 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:35:48 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:35:52 pm*************************
+FECHA = 24/06/2014
+HORA = 02:35:52 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:35:52 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:40:46 pm*************************
+FECHA = 24/06/2014
+HORA = 02:40:46 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:40:46 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:42:26 pm*************************
+FECHA = 24/06/2014
+HORA = 02:42:26 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:42:26 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:42:31 pm*************************
+FECHA = 24/06/2014
+HORA = 02:42:31 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:42:31 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:44:26 pm*************************
+FECHA = 24/06/2014
+HORA = 02:44:26 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:44:26 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:04 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:04 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:47:04 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:07 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:07 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:47:07 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:27 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:27 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:47:27 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:33 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:33 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:47:33 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:47:43 pm*************************
+FECHA = 24/06/2014
+HORA = 02:47:43 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:47:43 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:49:26 pm*************************
+FECHA = 24/06/2014
+HORA = 02:49:26 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:49:26 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:50:09 pm*************************
+FECHA = 24/06/2014
+HORA = 02:50:09 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:50:09 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:50:23 pm*************************
+FECHA = 24/06/2014
+HORA = 02:50:23 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:50:23 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:56:41 pm*************************
+FECHA = 24/06/2014
+HORA = 02:56:41 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:56:41 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:57:43 pm*************************
+FECHA = 24/06/2014
+HORA = 02:57:43 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 02:57:43 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:06:21 pm*************************
+FECHA = 24/06/2014
+HORA = 03:06:21 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 03:06:21 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:08:35 pm*************************
+FECHA = 24/06/2014
+HORA = 03:08:35 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:08:35 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:11:41 pm*************************
+FECHA = 24/06/2014
+HORA = 03:11:41 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:11:41 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:27:27 pm*************************
+FECHA = 24/06/2014
+HORA = 04:27:27 pm
+IP = 190.22.98.117
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 24/06/2014  HORA = 04:27:27 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:44 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:44 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:44 am
+IP = 201.214.167.141
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 26/06/2014  HORA = 05:12:44 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+FECHA = 26/06/2014
+HORA = 05:41:47 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+FECHA = 26/06/2014
+HORA = 05:41:47 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+FECHA = 26/06/2014
+HORA = 05:41:47 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 26/06/2014  HORA = 05:41:47 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:11 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:11 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:11 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:11 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:11 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:11 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:14 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:14 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:14 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:14 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:14 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:14 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:15 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:15 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:15 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:15 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:15 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:15 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:17 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:17 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:17 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:17 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:17 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:17 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:24 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:24 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:24 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:24 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:24 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:24 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:26 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:26 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:26 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:26 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:26 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:26 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:33 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:33 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:33 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:33 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:33 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:33 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:39 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:39 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:39 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:39 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:39 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:39 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:48 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:48 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:48 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:48 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:55 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:55 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:46:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:46:55 am*************************
+FECHA = 26/06/2014
+HORA = 05:46:55 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:46:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:27 am*************************
+FECHA = 26/06/2014
+HORA = 05:48:27 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:48:27 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:27 am*************************
+FECHA = 26/06/2014
+HORA = 05:48:27 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:48:27 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:48 am*************************
+FECHA = 26/06/2014
+HORA = 05:48:48 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 26/06/2014  HORA = 05:48:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:48 am*************************
+FECHA = 26/06/2014
+HORA = 05:48:48 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:48:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:27 am*************************
+FECHA = 26/06/2014
+HORA = 05:49:27 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 26/06/2014  HORA = 05:49:27 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:27 am*************************
+FECHA = 26/06/2014
+HORA = 05:49:27 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:49:27 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:50:38 am*************************
+FECHA = 26/06/2014
+HORA = 05:50:38 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 26/06/2014  HORA = 05:50:38 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:50:38 am*************************
+FECHA = 26/06/2014
+HORA = 05:50:38 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:50:38 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:02:41 am*************************
+FECHA = 26/06/2014
+HORA = 06:02:41 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 26/06/2014  HORA = 06:02:41 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:02:41 am*************************
+FECHA = 26/06/2014
+HORA = 06:02:41 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:02:41 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:40 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:40 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+FECHA = 26/06/2014
+HORA = 07:13:40 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 26/06/2014  HORA = 07:13:40 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:18:45 am*************************
+FECHA = 26/06/2014
+HORA = 07:18:45 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:18:45 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:18:45 am*************************
+FECHA = 26/06/2014
+HORA = 07:18:45 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:18:45 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:18:49 am*************************
+FECHA = 26/06/2014
+HORA = 07:18:49 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:18:49 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:18:49 am*************************
+FECHA = 26/06/2014
+HORA = 07:18:49 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:18:49 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:42 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:42 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:19:42 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:42 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:42 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:19:42 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:46 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:46 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:19:46 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:46 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:46 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:19:46 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:50 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:50 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:19:50 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:50 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:50 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:19:50 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:20:55 am*************************
+FECHA = 26/06/2014
+HORA = 07:20:55 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:20:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:20:56 am*************************
+FECHA = 26/06/2014
+HORA = 07:20:56 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:20:56 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:22:28 am*************************
+FECHA = 26/06/2014
+HORA = 07:22:28 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:22:28 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:22:28 am*************************
+FECHA = 26/06/2014
+HORA = 07:22:28 am
+IP = 190.22.8.159
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:22:28 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:41 pm*************************
+FECHA = 26/06/2014
+HORA = 05:48:41 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 05:48:41 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:41 pm*************************
+FECHA = 26/06/2014
+HORA = 05:48:41 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:48:41 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:56 pm*************************
+FECHA = 26/06/2014
+HORA = 05:48:56 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 05:48:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:48:56 pm*************************
+FECHA = 26/06/2014
+HORA = 05:48:56 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:48:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:01 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:01 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 05:49:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:01 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:01 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:49:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:07 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:07 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 05:49:07 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:07 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:07 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:49:07 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:26 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:26 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 05:49:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:26 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:26 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:49:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:59 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:59 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 05:49:59 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:49:59 pm*************************
+FECHA = 26/06/2014
+HORA = 05:49:59 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 05:49:59 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:42 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:42 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 06:42:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:42 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:42 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:42:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:57 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:57 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 06:42:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:42:57 pm*************************
+FECHA = 26/06/2014
+HORA = 06:42:57 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:42:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:01 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:01 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 06:43:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:01 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:01 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:43:01 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:37 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:37 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 06:43:37 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:37 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:37 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:43:37 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:50 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:50 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 06:43:50 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:43:50 pm*************************
+FECHA = 26/06/2014
+HORA = 06:43:50 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 06:43:50 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:01:55 pm*************************
+FECHA = 26/06/2014
+HORA = 07:01:55 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 07:01:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:01:55 pm*************************
+FECHA = 26/06/2014
+HORA = 07:01:55 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:01:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:02:04 pm*************************
+FECHA = 26/06/2014
+HORA = 07:02:04 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:02:04 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:02:04 pm*************************
+FECHA = 26/06/2014
+HORA = 07:02:04 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:02:04 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:08:48 pm*************************
+FECHA = 26/06/2014
+HORA = 07:08:48 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:08:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:08:48 pm*************************
+FECHA = 26/06/2014
+HORA = 07:08:48 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:08:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:12 pm*************************
+FECHA = 26/06/2014
+HORA = 07:12:12 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:12:12 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:12 pm*************************
+FECHA = 26/06/2014
+HORA = 07:12:12 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:12:12 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:19 pm*************************
+FECHA = 26/06/2014
+HORA = 07:12:19 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:12:19 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:12:19 pm*************************
+FECHA = 26/06/2014
+HORA = 07:12:19 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:12:19 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:15:58 pm*************************
+FECHA = 26/06/2014
+HORA = 07:15:58 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:15:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:15:58 pm*************************
+FECHA = 26/06/2014
+HORA = 07:15:58 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:15:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:04 pm*************************
+FECHA = 26/06/2014
+HORA = 07:16:04 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 26/06/2014  HORA = 07:16:04 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:04 pm*************************
+FECHA = 26/06/2014
+HORA = 07:16:04 pm
+IP = 190.22.67.233
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:16:04 pm*************************
+
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+FECHA = 27/06/2014
+HORA = 01:00:28 am
+IP = 200.72.240.3
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+FECHA = 27/06/2014
+HORA = 01:00:28 am
+IP = 200.72.240.3
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+FECHA = 27/06/2014
+HORA = 01:00:28 am
+IP = 200.72.240.3
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 27/06/2014  HORA = 01:00:28 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:27:36 am*************************
+FECHA = 04/07/2014
+HORA = 05:27:36 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:27:36 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:27:36 am*************************
+FECHA = 04/07/2014
+HORA = 05:27:36 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:27:36 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+FECHA = 04/07/2014
+HORA = 05:27:45 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+FECHA = 04/07/2014
+HORA = 05:27:45 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+FECHA = 04/07/2014
+HORA = 05:27:45 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 04/07/2014  HORA = 05:27:45 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:32:20 am*************************
+FECHA = 04/07/2014
+HORA = 05:32:20 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 05:32:20 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:32:20 am*************************
+FECHA = 04/07/2014
+HORA = 05:32:20 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:32:20 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:33:19 am*************************
+FECHA = 04/07/2014
+HORA = 05:33:19 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24289259-3
+***********************FECHA = 04/07/2014  HORA = 05:33:19 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:33:19 am*************************
+FECHA = 04/07/2014
+HORA = 05:33:19 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:33:19 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:22 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9
+***********************FECHA = 04/07/2014  HORA = 05:46:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:22 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 05:46:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+FECHA = 04/07/2014
+HORA = 05:46:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 04/07/2014  HORA = 05:46:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:03:34 am*************************
+FECHA = 04/07/2014
+HORA = 06:03:34 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9
+***********************FECHA = 04/07/2014  HORA = 06:03:34 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:03:34 am*************************
+FECHA = 04/07/2014
+HORA = 06:03:34 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:03:34 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:04:51 am*************************
+FECHA = 04/07/2014
+HORA = 06:04:51 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:04:51 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:04:51 am*************************
+FECHA = 04/07/2014
+HORA = 06:04:51 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:04:51 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:00 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:00 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:05:00 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:00 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:00 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:05:00 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:07 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:07 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:05:07 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:07 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:07 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:05:07 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:22 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:05:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:22 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:05:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:35 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:35 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:05:35 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:05:35 am*************************
+FECHA = 04/07/2014
+HORA = 06:05:35 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:05:35 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:06:01 am*************************
+FECHA = 04/07/2014
+HORA = 06:06:01 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:06:01 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:06:01 am*************************
+FECHA = 04/07/2014
+HORA = 06:06:01 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:06:01 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:06:21 am*************************
+FECHA = 04/07/2014
+HORA = 06:06:21 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:06:21 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:06:21 am*************************
+FECHA = 04/07/2014
+HORA = 06:06:21 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:06:21 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:47 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:47 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:11:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:47 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:47 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:11:47 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:52 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:52 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:11:52 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:52 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:52 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:11:52 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:11:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:11:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:11:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:11:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:23 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:23 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:13:23 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:23 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:23 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:13:23 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:26 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:26 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:13:26 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:26 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:26 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:13:26 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:32 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:32 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:13:32 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:13:32 am*************************
+FECHA = 04/07/2014
+HORA = 06:13:32 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:13:32 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:14:43 am*************************
+FECHA = 04/07/2014
+HORA = 06:14:43 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:14:43 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:14:43 am*************************
+FECHA = 04/07/2014
+HORA = 06:14:43 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:14:43 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:15:58 am*************************
+FECHA = 04/07/2014
+HORA = 06:15:58 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 06:15:58 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:15:58 am*************************
+FECHA = 04/07/2014
+HORA = 06:15:58 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:15:58 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:19:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:19:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:19:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:19:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:19:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:19:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:24:25 am*************************
+FECHA = 04/07/2014
+HORA = 06:24:25 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:24:25 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:24:25 am*************************
+FECHA = 04/07/2014
+HORA = 06:24:25 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:24:25 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:27:34 am*************************
+FECHA = 04/07/2014
+HORA = 06:27:34 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:27:34 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:27:34 am*************************
+FECHA = 04/07/2014
+HORA = 06:27:34 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:27:34 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:27:36 am*************************
+FECHA = 04/07/2014
+HORA = 06:27:36 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:27:36 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:27:36 am*************************
+FECHA = 04/07/2014
+HORA = 06:27:36 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:27:36 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:28:21 am*************************
+FECHA = 04/07/2014
+HORA = 06:28:21 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:28:21 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:28:21 am*************************
+FECHA = 04/07/2014
+HORA = 06:28:21 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:28:21 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:31:04 am*************************
+FECHA = 04/07/2014
+HORA = 06:31:04 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-924836901-9
+***********************FECHA = 04/07/2014  HORA = 06:31:04 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:31:04 am*************************
+FECHA = 04/07/2014
+HORA = 06:31:04 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:31:04 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:33:10 am*************************
+FECHA = 04/07/2014
+HORA = 06:33:10 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9null
+***********************FECHA = 04/07/2014  HORA = 06:33:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:33:10 am*************************
+FECHA = 04/07/2014
+HORA = 06:33:10 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:33:10 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:34:57 am*************************
+FECHA = 04/07/2014
+HORA = 06:34:57 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9null
+***********************FECHA = 04/07/2014  HORA = 06:34:57 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:34:57 am*************************
+FECHA = 04/07/2014
+HORA = 06:34:57 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:34:57 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:40:22 am*************************
+FECHA = 04/07/2014
+HORA = 06:40:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9null
+***********************FECHA = 04/07/2014  HORA = 06:40:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:40:22 am*************************
+FECHA = 04/07/2014
+HORA = 06:40:22 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:40:22 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:44:17 am*************************
+FECHA = 04/07/2014
+HORA = 06:44:17 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:44:17 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:44:17 am*************************
+FECHA = 04/07/2014
+HORA = 06:44:17 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:44:17 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:45:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:45:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:45:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:45:56 am*************************
+FECHA = 04/07/2014
+HORA = 06:45:56 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:45:56 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:46:04 am*************************
+FECHA = 04/07/2014
+HORA = 06:46:04 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:46:04 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:46:04 am*************************
+FECHA = 04/07/2014
+HORA = 06:46:04 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:46:04 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:49:35 am*************************
+FECHA = 04/07/2014
+HORA = 06:49:35 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 06:49:35 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 06:49:35 am*************************
+FECHA = 04/07/2014
+HORA = 06:49:35 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 06:49:35 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:42:40 am*************************
+FECHA = 04/07/2014
+HORA = 07:42:40 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 04/07/2014  HORA = 07:42:40 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:42:40 am*************************
+FECHA = 04/07/2014
+HORA = 07:42:40 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:42:40 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:48:43 am*************************
+FECHA = 04/07/2014
+HORA = 07:48:43 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:48:43 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:48:43 am*************************
+FECHA = 04/07/2014
+HORA = 07:48:43 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:48:43 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:50:24 am*************************
+FECHA = 04/07/2014
+HORA = 07:50:24 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:50:24 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:50:24 am*************************
+FECHA = 04/07/2014
+HORA = 07:50:24 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:50:24 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:52:53 am*************************
+FECHA = 04/07/2014
+HORA = 07:52:53 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:52:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:52:53 am*************************
+FECHA = 04/07/2014
+HORA = 07:52:53 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:52:53 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+FECHA = 04/07/2014
+HORA = 07:53:46 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+FECHA = 04/07/2014
+HORA = 07:53:46 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+FECHA = 04/07/2014
+HORA = 07:53:46 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+FECHA = 04/07/2014
+HORA = 07:53:46 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:53:46 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:55:09 am*************************
+FECHA = 04/07/2014
+HORA = 07:55:09 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:55:09 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:55:09 am*************************
+FECHA = 04/07/2014
+HORA = 07:55:09 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:55:09 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:55:13 am*************************
+FECHA = 04/07/2014
+HORA = 07:55:13 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 07:55:13 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 07:55:13 am*************************
+FECHA = 04/07/2014
+HORA = 07:55:13 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 07:55:13 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 08:03:27 am*************************
+FECHA = 04/07/2014
+HORA = 08:03:27 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= null
+***********************FECHA = 04/07/2014  HORA = 08:03:27 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 08:03:27 am*************************
+FECHA = 04/07/2014
+HORA = 08:03:27 am
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 08:03:27 am*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:15:39 pm*************************
+FECHA = 04/07/2014
+HORA = 09:15:39 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= fullname
+***********************FECHA = 04/07/2014  HORA = 09:15:39 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 09:15:39 pm*************************
+FECHA = 04/07/2014
+HORA = 09:15:39 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 09:15:39 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 11:05:53 pm*************************
+FECHA = 04/07/2014
+HORA = 11:05:53 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 11:05:53 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 11:05:53 pm*************************
+FECHA = 04/07/2014
+HORA = 11:05:53 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 11:05:53 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 11:06:29 pm*************************
+FECHA = 04/07/2014
+HORA = 11:06:29 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 04/07/2014  HORA = 11:06:29 pm*************************
+
+***********************FECHA = 04/07/2014  HORA = 11:06:29 pm*************************
+FECHA = 04/07/2014
+HORA = 11:06:29 pm
+IP = 190.22.51.94
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 04/07/2014  HORA = 11:06:29 pm*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:42 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:42 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:42 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 05/07/2014  HORA = 05:22:42 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:43 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:43 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:43 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 05/07/2014  HORA = 05:22:43 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:52 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 05/07/2014  HORA = 05:22:52 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:53 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:53 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+FECHA = 05/07/2014
+HORA = 05:22:53 am
+IP = 190.22.31.232
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 05/07/2014  HORA = 05:22:53 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:32:35 am*************************
+FECHA = 06/07/2014
+HORA = 02:32:35 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9
+***********************FECHA = 06/07/2014  HORA = 02:32:35 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:32:35 am*************************
+FECHA = 06/07/2014
+HORA = 02:32:35 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:32:35 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:33:05 am*************************
+FECHA = 06/07/2014
+HORA = 02:33:05 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 7bbiologia
+***********************FECHA = 06/07/2014  HORA = 02:33:05 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:33:05 am*************************
+FECHA = 06/07/2014
+HORA = 02:33:05 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:33:05 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+FECHA = 06/07/2014
+HORA = 02:33:16 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= biologia7b
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+FECHA = 06/07/2014
+HORA = 02:33:16 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= biologia7b
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+FECHA = 06/07/2014
+HORA = 02:33:16 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:33:16 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:07 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:07 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 17372849-2
+***********************FECHA = 06/07/2014  HORA = 02:37:07 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:07 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:07 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:37:07 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:34 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:34 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9
+***********************FECHA = 06/07/2014  HORA = 02:37:34 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:34 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:34 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:37:34 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:36 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9
+***********************FECHA = 06/07/2014  HORA = 02:37:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:37:36 am*************************
+FECHA = 06/07/2014
+HORA = 02:37:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:37:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:42:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:42:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 06/07/2014  HORA = 02:42:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:42:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:42:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:42:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:03 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 06/07/2014  HORA = 02:43:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:03 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:43:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:33 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:33 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 06/07/2014  HORA = 02:43:33 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:33 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:33 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:43:33 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:36 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 
+***********************FECHA = 06/07/2014  HORA = 02:43:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:43:36 am*************************
+FECHA = 06/07/2014
+HORA = 02:43:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:43:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:25 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:25 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 02:45:25 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:25 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:25 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:25 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:27 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:27 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 02:45:27 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:27 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:27 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:27 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:29 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:29 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 02:45:29 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:29 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:29 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:29 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:30 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:30 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:45:30 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:30 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:30 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:30 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:32 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:32 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:45:32 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:32 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:32 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:32 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:33 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:33 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= 24836901-9Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:45:33 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:45:33 am*************************
+FECHA = 06/07/2014
+HORA = 02:45:33 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:45:33 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:09 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:09 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:09 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:47:09 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:47:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:13 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:13 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 02:47:13 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:13 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:13 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:47:13 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:15 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:15 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 02:47:15 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:15 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:15 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:47:15 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:19 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:19 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:47:19 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:19 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:19 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:47:19 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:47:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:47:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:19 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:19 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:49:19 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:19 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:19 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:49:19 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:21 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:49:21 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:50 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:50 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:50 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:49:50 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:52 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:52 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:49:52 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:52 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:52 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:49:52 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:54 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:54 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 02:49:54 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:54 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:54 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:49:54 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:56 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:56 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 02:49:56 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:56 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:56 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:49:56 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:49:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:49:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:50:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:10 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:10 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 02:50:10 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:10 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:10 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:50:10 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+FECHA = 06/07/2014
+HORA = 02:50:12 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:50:12 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:54 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:54 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:53:54 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:54 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:54 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:53:54 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:53:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:59 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:59 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+FECHA = 06/07/2014
+HORA = 02:53:59 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:53:59 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:54:01 am*************************
+FECHA = 06/07/2014
+HORA = 02:54:01 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 02:54:01 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:54:01 am*************************
+FECHA = 06/07/2014
+HORA = 02:54:01 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:54:01 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:54:03 am*************************
+FECHA = 06/07/2014
+HORA = 02:54:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 02:54:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:54:03 am*************************
+FECHA = 06/07/2014
+HORA = 02:54:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:54:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:04 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 02:55:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:04 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 02:55:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:06 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:06 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:06 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:55:06 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:17 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:17 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+FECHA = 06/07/2014
+HORA = 02:55:17 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 02:55:17 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:53:59 am*************************
+FECHA = 06/07/2014
+HORA = 03:53:59 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 06/07/2014  HORA = 03:53:59 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:53:59 am*************************
+FECHA = 06/07/2014
+HORA = 03:53:59 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:53:59 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:01 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:01 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 03:54:01 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:01 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:01 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:54:01 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:03 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 06/07/2014  HORA = 03:54:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:03 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:03 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:54:03 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+FECHA = 06/07/2014
+HORA = 03:54:04 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 03:54:04 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:20 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:20 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:20 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 03:55:20 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:25 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:25 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:25 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 03:55:25 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:38 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:38 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 03:55:38 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:38 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:38 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:55:38 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:44 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:44 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+FECHA = 06/07/2014
+HORA = 03:55:44 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 03:55:44 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:43 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:43 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 03:59:43 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:43 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:43 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:59:43 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:47 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:47 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 03:59:47 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:47 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:47 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 03:59:47 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+FECHA = 06/07/2014
+HORA = 03:59:57 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 03:59:57 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+FECHA = 06/07/2014
+HORA = 04:01:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+FECHA = 06/07/2014
+HORA = 04:01:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7b
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+FECHA = 06/07/2014
+HORA = 04:01:36 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 04:01:36 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:04:24 am*************************
+FECHA = 06/07/2014
+HORA = 04:04:24 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso no ha encontrado registros
+Datos a mostrar :curso= Biologia7A
+***********************FECHA = 06/07/2014  HORA = 04:04:24 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:04:24 am*************************
+FECHA = 06/07/2014
+HORA = 04:04:24 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 06/07/2014  HORA = 04:04:24 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************
+FECHA = 06/07/2014
+HORA = 04:04:29 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion count_documentos_curso ha encontrado registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************
+FECHA = 06/07/2014
+HORA = 04:04:29 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :funcion documentos_curso a traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************
+
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************
+FECHA = 06/07/2014
+HORA = 04:04:29 am
+IP = 190.22.101.104
+Nombre de log:documentos_curso
+Mensaje :ingreso a documentos_curso
+
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :1,2,Biologia7B,3,guia de matematica prueba 2,15 May 2014  19:58:43
+CABECERAS :id,category,fullname,id_curso,name,disponible_desde
+DATOS :2,2,Biologia7B,3,joojdf,31 May 2014  21:23:30
+***********************FECHA = 06/07/2014  HORA = 04:04:29 am*************************

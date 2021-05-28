@@ -1,0 +1,77 @@
+
+***********************FECHA = 23/06/2014  HORA = 01:21:02 am*************************
+FECHA = 23/06/2014
+HORA = 01:21:02 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 01:21:02 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:21:24 am*************************
+FECHA = 23/06/2014
+HORA = 01:21:24 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 01:21:24 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:22:21 am*************************
+FECHA = 23/06/2014
+HORA = 01:22:21 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 01:22:21 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:22:31 am*************************
+FECHA = 23/06/2014
+HORA = 01:22:31 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :4,18678982-k,Arantxa,Fuenzalida,Aranda.rock@gmail.com
+***********************FECHA = 23/06/2014  HORA = 01:22:31 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:27:10 am*************************
+FECHA = 23/06/2014
+HORA = 01:27:10 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :4,18678982-k,Arantxa,Fuenzalida,Aranda.rock@gmail.com
+***********************FECHA = 23/06/2014  HORA = 01:27:10 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:18:40 pm*************************
+FECHA = 23/06/2014
+HORA = 08:18:40 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :4,18678982-k,Arantxa,Fuenzalida,Aranda.rock@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:18:40 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:18:55 pm*************************
+FECHA = 23/06/2014
+HORA = 08:18:55 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso_profesor
+Mensaje :ingreso a participantes_curso_profesor
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :4,18678982-k,Arantxa,Fuenzalida,Aranda.rock@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:18:55 pm*************************

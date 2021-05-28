@@ -1,0 +1,65 @@
+<div class="fondo-in">
+    <div class="mg-tops">  
+              <div class="row">
+                 <div class="col-md-3">
+                    <div class="card text-center">
+                       <div class="card-body">
+                          <h5>Bienvenido <label class="letterNegrt">{{user.nombre}} {{user.apellido}}</label></h5>
+                          <h6>{{user.nombre_usuario}}</h6> <hr> 
+                          {{#each datosUser}}
+                           <h6><img class="bandera-sm" src="/img/banderas/png/{{ABREV_PAIS}}.png" alt="bandera"> {{NAMEPAIS}}</h6>
+                          {{/each}} 
+                          <a href="/links" class="btn btn-primary m-4">
+                          Actualizar mi Perfil   
+                          {{#each numPages}}
+                          {{numRows}} 
+                          {{/each}}
+                         </a>
+                      </div>
+                    </div>
+                 </div>
+
+                 <div class="col-md-9">
+                    <div class="card">
+                       <div class="card-body"> 
+                          <label class="float-left">Cursos disponibles</label> <br><br>
+                           <div class="row">
+                               {{#each datosCursos}}
+                               <div class="col-md-2 fond-card">
+                                  <div class="card bor-card">
+                                     <img class="bor-img-cours" src="/img/courses/{{IMAGE_CURSO}}" alt="imagenCourse">
+                                  </div>  
+ 
+                                   <div class="container"><hr>
+                                      <h6 class="letterNegrt">Nombre: {{NAMECURSO}}</h6> 
+                                      <h6> {{DESCRIPC_CURSO}}</h6>
+                                      <button class="form-control btn btn-darkred">Comenzar</button>
+                                   </div> 
+                               </div>
+                               {{/each}}   
+                           </div> 
+                           <div class="paginat-sm">
+                              <nav aria-label="Page navigation">
+                                 <ul class="pagination justify-content-end">
+                                    <li class="page-item disabled">
+                                    <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Anterior</a>
+                                    </li>
+                                    <li class="page-item"><a class="page-link" href="#">1</a>
+                                    </li>
+                                    <li class="page-item active" aria-current="page">
+                                    <a class="page-link" href="#">2 <span class="sr-only">(current)</span></a>
+                                    </li>
+                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                    <li class="page-item">
+                                    <a class="page-link" href="#">Next</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                           </div>
+                      </div>
+                    </div>
+                 </div>
+             </div> 
+    </div>
+</div>
+

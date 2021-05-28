@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="#FFFFFF">
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_height="fill_parent" android:layout_width="fill_parent" >
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dip"
+            android:id="@+id/layout1"
+            android:background="#FFFFFF"
+
+            >
+            <!--  Logo -->
+
+            <ImageView android:layout_height="wrap_content"
+                android:src="@drawable/logo_sanpedro"
+                android:id="@+id/img"
+                android:layout_width="fill_parent"
+                android:background="#FFFFFF"
+                android:layout_marginTop="15dip">
+
+            </ImageView>
+
+            <!--  Email Label -->
+
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Usuario:"
+                android:layout_marginTop="25dip"
+                />
+
+            <EditText android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"
+                android:singleLine="true"
+                android:id="@+id/edusuario"
+                android:background="@drawable/edittext_rounded_corners"
+                />
+
+            <!--  Password Label -->
+
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Contraseña"/>
+
+            <EditText android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:password="true"
+                android:id="@+id/edpassword"
+                android:background="@drawable/edittext_rounded_corners"
+
+                />
+
+            <!-- Login button -->
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dip"
+                android:text="Login"
+                android:id="@+id/Blogin"
+                android:background="@drawable/edittext_rounded_corners"
+                />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,3462 @@
+
+***********************FECHA = 22/06/2014  HORA = 04:45:40 pm*************************
+FECHA = 22/06/2014
+HORA = 04:45:40 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 04:45:40 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:23:56 pm*************************
+FECHA = 22/06/2014
+HORA = 09:23:56 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:23:56 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:32:51 pm*************************
+FECHA = 22/06/2014
+HORA = 09:32:51 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:32:51 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:35:36 pm*************************
+FECHA = 22/06/2014
+HORA = 09:35:36 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:35:36 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:35:39 pm*************************
+FECHA = 22/06/2014
+HORA = 09:35:39 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:35:39 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:35:57 pm*************************
+FECHA = 22/06/2014
+HORA = 09:35:57 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:35:57 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:48:37 pm*************************
+FECHA = 22/06/2014
+HORA = 09:48:37 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:48:37 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:48:40 pm*************************
+FECHA = 22/06/2014
+HORA = 09:48:40 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:48:40 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:48:52 pm*************************
+FECHA = 22/06/2014
+HORA = 09:48:52 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:48:52 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:50:07 pm*************************
+FECHA = 22/06/2014
+HORA = 09:50:07 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:50:07 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:50:19 pm*************************
+FECHA = 22/06/2014
+HORA = 09:50:19 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:50:19 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:50:47 pm*************************
+FECHA = 22/06/2014
+HORA = 09:50:47 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 09:50:47 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:00:20 pm*************************
+FECHA = 22/06/2014
+HORA = 10:00:20 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:00:20 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:00:26 pm*************************
+FECHA = 22/06/2014
+HORA = 10:00:26 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:00:26 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:01:43 pm*************************
+FECHA = 22/06/2014
+HORA = 10:01:43 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:01:43 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:03:24 pm*************************
+FECHA = 22/06/2014
+HORA = 10:03:24 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:03:24 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:10:20 pm*************************
+FECHA = 22/06/2014
+HORA = 10:10:20 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:10:20 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:10:22 pm*************************
+FECHA = 22/06/2014
+HORA = 10:10:22 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:10:22 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:11:04 pm*************************
+FECHA = 22/06/2014
+HORA = 10:11:04 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:11:04 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:32:05 pm*************************
+FECHA = 22/06/2014
+HORA = 10:32:05 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:32:05 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:39:17 pm*************************
+FECHA = 22/06/2014
+HORA = 10:39:17 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:39:17 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:44:15 pm*************************
+FECHA = 22/06/2014
+HORA = 10:44:15 pm
+IP = 190.22.50.129
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:44:15 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:44:43 pm*************************
+FECHA = 22/06/2014
+HORA = 10:44:43 pm
+IP = 190.22.50.129
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:44:43 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:44:49 pm*************************
+FECHA = 22/06/2014
+HORA = 10:44:49 pm
+IP = 190.22.50.129
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:44:49 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:59:07 pm*************************
+FECHA = 22/06/2014
+HORA = 10:59:07 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :6,3,19,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=19&id=3 para contestar.,<p>asdfasdfadfs</p>,1403330167
+***********************FECHA = 22/06/2014  HORA = 10:59:07 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:07:31 pm*************************
+FECHA = 22/06/2014
+HORA = 11:07:31 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :14,19,3,Mensaje nuevo de (Diego Menares),mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+,1403492812
+***********************FECHA = 22/06/2014  HORA = 11:07:31 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:08:59 pm*************************
+FECHA = 22/06/2014
+HORA = 11:08:59 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :14,19,3,Mensaje nuevo de (Diego Menares),mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+,1403492812
+***********************FECHA = 22/06/2014  HORA = 11:08:59 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:09:43 pm*************************
+FECHA = 22/06/2014
+HORA = 11:09:43 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :14,19,3,Mensaje nuevo de (Diego Menares),mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+,1403492812
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :15,19,3,Mensaje nuevo de (Diego Menares),este es un segundo mensaje 
+a felipe trujilo 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,este es un segundo mensaje 
+a felipe trujilo ,1403492976
+***********************FECHA = 22/06/2014  HORA = 11:09:43 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:12:22 pm*************************
+FECHA = 22/06/2014
+HORA = 11:12:22 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :14,19,3,Mensaje nuevo de (Diego Menares),mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,mensaje de diego menares a felipe trujillo 
+este es el cuerpo del mensaje
+,1403492812
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :15,19,3,Mensaje nuevo de (Diego Menares),este es un segundo mensaje 
+a felipe trujilo 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,este es un segundo mensaje 
+a felipe trujilo ,1403492976
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :16,19,3,Mensaje nuevo de (Diego Menares),este es un tercer mensaje para felipe trujillo
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=3&id=19 para contestar.,este es un tercer mensaje para felipe trujillo,1403493117
+***********************FECHA = 22/06/2014  HORA = 11:12:22 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:47:43 pm*************************
+FECHA = 22/06/2014
+HORA = 11:47:43 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 11:47:43 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:31:46 am*************************
+FECHA = 23/06/2014
+HORA = 12:31:46 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,timecreated
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,1403497789
+***********************FECHA = 23/06/2014  HORA = 12:31:46 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:34:39 am*************************
+FECHA = 23/06/2014
+HORA = 12:34:39 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+***********************FECHA = 23/06/2014  HORA = 12:34:39 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:35:04 am*************************
+FECHA = 23/06/2014
+HORA = 12:35:04 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+***********************FECHA = 23/06/2014  HORA = 12:35:04 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:35:07 am*************************
+FECHA = 23/06/2014
+HORA = 12:35:07 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+***********************FECHA = 23/06/2014  HORA = 12:35:07 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:38:19 am*************************
+FECHA = 23/06/2014
+HORA = 12:38:19 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+***********************FECHA = 23/06/2014  HORA = 12:38:19 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:38:51 am*************************
+FECHA = 23/06/2014
+HORA = 12:38:51 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,date_formatted
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014
+***********************FECHA = 23/06/2014  HORA = 12:38:51 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:39:28 am*************************
+FECHA = 23/06/2014
+HORA = 12:39:28 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,date_formatted
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  HH:SS
+***********************FECHA = 23/06/2014  HORA = 12:39:28 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:40:57 am*************************
+FECHA = 23/06/2014
+HORA = 12:40:57 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,date_formatted
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  H:i:s
+***********************FECHA = 23/06/2014  HORA = 12:40:57 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:42:38 am*************************
+FECHA = 23/06/2014
+HORA = 12:42:38 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,date_formatted
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 23/06/2014  HORA = 12:42:38 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 12:44:24 am*************************
+FECHA = 23/06/2014
+HORA = 12:44:24 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 23/06/2014  HORA = 12:44:24 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:48:14 am*************************
+FECHA = 23/06/2014
+HORA = 01:48:14 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :5,3,14,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,,21 Jun 2014  01:56:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :27,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje a valentina
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje a valentina,23 Jun 2014  01:47:25
+***********************FECHA = 23/06/2014  HORA = 01:48:14 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:49:43 am*************************
+FECHA = 23/06/2014
+HORA = 01:49:43 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :5,3,14,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,,21 Jun 2014  01:56:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :27,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje a valentina
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje a valentina,23 Jun 2014  01:47:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :28,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje 2 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje 2 ,23 Jun 2014  01:49:23
+***********************FECHA = 23/06/2014  HORA = 01:49:43 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:50:35 am*************************
+FECHA = 23/06/2014
+HORA = 01:50:35 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :5,3,14,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,,21 Jun 2014  01:56:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :27,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje a valentina
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje a valentina,23 Jun 2014  01:47:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :28,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje 2 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje 2 ,23 Jun 2014  01:49:23
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :29,3,14,mensaje 4,mensaje 4,,23 Jun 2014  01:50:25
+***********************FECHA = 23/06/2014  HORA = 01:50:35 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:56:54 am*************************
+FECHA = 23/06/2014
+HORA = 01:56:54 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :5,3,14,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,,21 Jun 2014  01:56:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :27,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje a valentina
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje a valentina,23 Jun 2014  01:47:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :28,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje 2 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje 2 ,23 Jun 2014  01:49:23
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :29,3,14,mensaje 4,mensaje 4,,23 Jun 2014  01:50:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :30,3,14,mensaje 5,,mensaje 5,23 Jun 2014  01:56:48
+***********************FECHA = 23/06/2014  HORA = 01:56:54 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:15:02 am*************************
+FECHA = 23/06/2014
+HORA = 02:15:02 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :5,3,14,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,,21 Jun 2014  01:56:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :27,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje a valentina
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje a valentina,23 Jun 2014  01:47:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :28,3,14,Mensaje nuevo de (Felipe Trujillo),mensaje 2 
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=14&id=3 para contestar.,mensaje 2 ,23 Jun 2014  01:49:23
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :29,3,14,mensaje 4,mensaje 4,,23 Jun 2014  01:50:25
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :30,3,14,mensaje 5,,mensaje 5,23 Jun 2014  01:56:48
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :31,3,14,mensaje 6,,mensaje 6,23 Jun 2014  02:14:56
+***********************FECHA = 23/06/2014  HORA = 02:15:02 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:52:41 am*************************
+FECHA = 23/06/2014
+HORA = 02:52:41 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 02:52:41 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:22:00 pm*************************
+FECHA = 23/06/2014
+HORA = 08:22:00 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+***********************FECHA = 23/06/2014  HORA = 08:22:00 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:22:30 pm*************************
+FECHA = 23/06/2014
+HORA = 08:22:30 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+***********************FECHA = 23/06/2014  HORA = 08:22:30 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:22:46 pm*************************
+FECHA = 23/06/2014
+HORA = 08:22:46 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :33,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:22:41
+***********************FECHA = 23/06/2014  HORA = 08:22:46 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:23:08 pm*************************
+FECHA = 23/06/2014
+HORA = 08:23:08 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :33,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:22:41
+***********************FECHA = 23/06/2014  HORA = 08:23:08 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:28:00 pm*************************
+FECHA = 23/06/2014
+HORA = 08:28:00 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 08:28:00 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:28:24 pm*************************
+FECHA = 23/06/2014
+HORA = 08:28:24 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :33,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:22:41
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :34,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:27:15
+***********************FECHA = 23/06/2014  HORA = 08:28:24 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:29:05 pm*************************
+FECHA = 23/06/2014
+HORA = 08:29:05 pm
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :33,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:22:41
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :34,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:27:15
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :35,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:56
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :36,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:58
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :37,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:59
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :38,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:00
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :39,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :40,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:01
+***********************FECHA = 23/06/2014  HORA = 08:29:05 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:55:05 pm*************************
+FECHA = 23/06/2014
+HORA = 08:55:05 pm
+IP = 200.72.240.3
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 08:55:05 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:55:15 pm*************************
+FECHA = 23/06/2014
+HORA = 08:55:15 pm
+IP = 200.72.240.3
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :4,3,11,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=11&id=3 para contestar.,,21 Jun 2014  01:56:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :32,19,11,asunto mensaje 1,,descripcion del mensaje,23 Jun 2014  20:21:36
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :33,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:22:41
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :34,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:27:15
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :35,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:56
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :36,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:58
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :37,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:28:59
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :38,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:00
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :39,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :40,19,11,asunto mensaje 2,,descripcion del mensaje2,23 Jun 2014  20:29:01
+***********************FECHA = 23/06/2014  HORA = 08:55:15 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:36:56 am*************************
+FECHA = 24/06/2014
+HORA = 12:36:56 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:36:56 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:27:23 pm*************************
+FECHA = 24/06/2014
+HORA = 12:27:23 pm
+IP = 190.22.98.117
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 24/06/2014  HORA = 12:27:23 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 03:22:00 pm*************************
+FECHA = 24/06/2014
+HORA = 03:22:00 pm
+IP = 190.22.98.117
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 03:22:00 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 04:01:39 pm*************************
+FECHA = 24/06/2014
+HORA = 04:01:39 pm
+IP = 190.22.98.117
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 24/06/2014  HORA = 04:01:39 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+FECHA = 26/06/2014
+HORA = 06:19:52 am
+IP = 190.22.8.159
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+FECHA = 26/06/2014
+HORA = 06:19:52 am
+IP = 190.22.8.159
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+FECHA = 26/06/2014
+HORA = 06:19:52 am
+IP = 190.22.8.159
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 26/06/2014  HORA = 06:19:52 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:14:35 am*************************
+FECHA = 26/06/2014
+HORA = 07:14:35 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24836901-9
+***********************FECHA = 26/06/2014  HORA = 07:14:35 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:14:35 am*************************
+FECHA = 26/06/2014
+HORA = 07:14:35 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:14:35 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+FECHA = 26/06/2014
+HORA = 07:15:36 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+FECHA = 26/06/2014
+HORA = 07:15:36 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+FECHA = 26/06/2014
+HORA = 07:15:36 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+***********************FECHA = 26/06/2014  HORA = 07:15:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:35 am*************************
+FECHA = 26/06/2014
+HORA = 07:16:35 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:16:35 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:16:35 am*************************
+FECHA = 26/06/2014
+HORA = 07:16:35 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:16:35 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+FECHA = 26/06/2014
+HORA = 07:17:56 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+FECHA = 26/06/2014
+HORA = 07:17:56 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+FECHA = 26/06/2014
+HORA = 07:17:56 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+***********************FECHA = 26/06/2014  HORA = 07:17:56 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+FECHA = 26/06/2014
+HORA = 07:21:55 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+FECHA = 26/06/2014
+HORA = 07:21:55 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+FECHA = 26/06/2014
+HORA = 07:21:55 am
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+***********************FECHA = 26/06/2014  HORA = 07:21:55 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:40:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:40:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:40:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+***********************FECHA = 26/06/2014  HORA = 03:40:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:10 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:10 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:10 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+***********************FECHA = 26/06/2014  HORA = 03:41:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:28 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:28 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:28 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :8,3,7,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=7&id=3 para contestar.,,21 Jun 2014  01:56:12
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :51,19,7,hola,,jose,26 Jun 2014  11:42:21
+***********************FECHA = 26/06/2014  HORA = 03:42:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:34 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:34 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:34 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :8,3,7,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=7&id=3 para contestar.,,21 Jun 2014  01:56:12
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :51,19,7,hola,,jose,26 Jun 2014  11:42:21
+***********************FECHA = 26/06/2014  HORA = 03:42:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:36 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:36 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:36 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :8,3,7,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=7&id=3 para contestar.,,21 Jun 2014  01:56:12
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :51,19,7,hola,,jose,26 Jun 2014  11:42:21
+***********************FECHA = 26/06/2014  HORA = 03:42:36 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:52 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:52 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+FECHA = 26/06/2014
+HORA = 03:42:52 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :8,3,7,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=7&id=3 para contestar.,,21 Jun 2014  01:56:12
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :51,19,7,hola,,jose,26 Jun 2014  11:42:21
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :52,19,7,hola,,jose,26 Jun 2014  11:42:49
+***********************FECHA = 26/06/2014  HORA = 03:42:52 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+FECHA = 26/06/2014
+HORA = 03:43:09 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+FECHA = 26/06/2014
+HORA = 03:43:09 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+FECHA = 26/06/2014
+HORA = 03:43:09 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+***********************FECHA = 26/06/2014  HORA = 03:43:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+FECHA = 26/06/2014
+HORA = 03:44:02 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+FECHA = 26/06/2014
+HORA = 03:44:02 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 15020197-7
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+FECHA = 26/06/2014
+HORA = 03:44:02 pm
+IP = 201.214.167.141
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :8,3,7,Mensaje nuevo de (Felipe Trujillo),asdfasdfadfs
+
+---------------------------------------------------------------------
+Ésta es una copia del mensaje que se le ha enviado en "puenteaprende". Vaya a http://puenteaprende.puntoproductores.cl/message/index.php?user=7&id=3 para contestar.,,21 Jun 2014  01:56:12
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :51,19,7,hola,,jose,26 Jun 2014  11:42:21
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :52,19,7,hola,,jose,26 Jun 2014  11:42:49
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :55,19,7,,mbh vng       ----  %!"·$&/()=?,,!"·$%&/()=? 'or'?_           .?ùlkgfj,26 Jun 2014  11:43:57
+***********************FECHA = 26/06/2014  HORA = 03:44:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+FECHA = 26/06/2014
+HORA = 08:03:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+FECHA = 26/06/2014
+HORA = 08:03:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+FECHA = 26/06/2014
+HORA = 08:03:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:03:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:17:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:17:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:17:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:17:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+FECHA = 26/06/2014
+HORA = 08:18:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:18:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+FECHA = 26/06/2014
+HORA = 08:20:26 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+FECHA = 26/06/2014
+HORA = 08:20:26 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+FECHA = 26/06/2014
+HORA = 08:20:26 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:20:26 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:17 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:17 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:17 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:22:17 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:34 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:34 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:34 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:22:34 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:51 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:51 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+FECHA = 26/06/2014
+HORA = 08:22:51 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:22:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:45 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:45 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:45 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:55:45 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+FECHA = 26/06/2014
+HORA = 08:55:48 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:55:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:56:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:56:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:56:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:56:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+FECHA = 26/06/2014
+HORA = 08:58:11 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+FECHA = 26/06/2014
+HORA = 08:58:11 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+FECHA = 26/06/2014
+HORA = 08:58:11 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:58:11 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:59:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:59:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+FECHA = 26/06/2014
+HORA = 08:59:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 08:59:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+FECHA = 26/06/2014
+HORA = 09:01:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+FECHA = 26/06/2014
+HORA = 09:01:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+FECHA = 26/06/2014
+HORA = 09:01:02 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:01:02 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:04:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:04:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:04:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:04:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+FECHA = 26/06/2014
+HORA = 09:06:42 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+FECHA = 26/06/2014
+HORA = 09:06:42 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+FECHA = 26/06/2014
+HORA = 09:06:42 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:06:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:08:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:08:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:08:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:08:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:12:56 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:12:56 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+FECHA = 26/06/2014
+HORA = 09:12:56 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:12:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:16:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:57 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:57 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+FECHA = 26/06/2014
+HORA = 09:16:57 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:16:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:24:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:24:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:42 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:42 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24836901-9
+***********************FECHA = 26/06/2014  HORA = 09:27:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:42 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:42 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 09:27:42 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:51 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:51 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24836901-9
+***********************FECHA = 26/06/2014  HORA = 09:27:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:51 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:51 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 09:27:51 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:57 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:57 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24836901-9
+***********************FECHA = 26/06/2014  HORA = 09:27:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:27:57 pm*************************
+FECHA = 26/06/2014
+HORA = 09:27:57 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 09:27:57 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+FECHA = 26/06/2014
+HORA = 09:29:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+FECHA = 26/06/2014
+HORA = 09:29:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+FECHA = 26/06/2014
+HORA = 09:29:58 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:29:58 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:10 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:10 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:10 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:30:10 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:25 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:25 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:25 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:30:25 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+FECHA = 26/06/2014
+HORA = 09:30:33 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:30:33 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:03 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:31:03 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:28 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:28 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:28 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:31:28 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:54 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:54 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+FECHA = 26/06/2014
+HORA = 09:31:54 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:31:54 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:32:18 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:32:18 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+FECHA = 26/06/2014
+HORA = 09:32:18 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:32:18 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:34:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:34:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+FECHA = 26/06/2014
+HORA = 09:34:14 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:34:14 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:09 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:09 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:09 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:36:09 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+FECHA = 26/06/2014
+HORA = 09:36:32 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:36:32 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:37 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:37 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:37 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:39:37 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+FECHA = 26/06/2014
+HORA = 09:39:55 pm
+IP = 190.22.67.233
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 26/06/2014  HORA = 09:39:55 pm*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:46 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:46 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:46 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:28:46 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:53 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:53 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+FECHA = 27/06/2014
+HORA = 12:28:53 am
+IP = 200.29.165.195
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:28:53 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+FECHA = 27/06/2014
+HORA = 12:36:18 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+FECHA = 27/06/2014
+HORA = 12:36:18 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+FECHA = 27/06/2014
+HORA = 12:36:18 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:36:18 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+FECHA = 27/06/2014
+HORA = 12:41:07 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+FECHA = 27/06/2014
+HORA = 12:41:07 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+FECHA = 27/06/2014
+HORA = 12:41:07 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:41:07 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:32 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:32 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:32 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:51:32 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:56 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:56 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+FECHA = 27/06/2014
+HORA = 12:51:56 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:51:56 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:42 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:42 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:42 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:54:42 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:51 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:51 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 24289259-3
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+FECHA = 27/06/2014
+HORA = 12:54:51 am
+IP = 200.111.61.131
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :43,3,19,mensaje de prueba 1,,mensaje de pruea 1,26 Jun 2014  03:17:50
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :44,3,19,mensaje de prueba 2,,mensaje de pruea 2,26 Jun 2014  03:21:01
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :45,3,19,mensaje de prueba 3,,mensaje de pruea 3,26 Jun 2014  03:21:07
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :46,3,19,mensaje de prueba 4,,mensaje de pruea 4,26 Jun 2014  03:21:13
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :47,3,19,mensaje de prueba 5,,mensaje de pruea 5,26 Jun 2014  03:21:18
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :48,3,19,mensaje de prueba 6,,mensaje de pruea 6,26 Jun 2014  03:21:24
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :49,3,19,hola yona,,hola yona,26 Jun 2014  11:41:05
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :53,3,19,hola yona2,,hola yona2,26 Jun 2014  11:43:04
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :54,3,19,hola yona3,,hola yona3,26 Jun 2014  11:43:45
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :56,3,19,hola yona3,,hola yona3,26 Jun 2014  13:08:09
+***********************FECHA = 27/06/2014  HORA = 12:54:51 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:02:41 am*************************
+FECHA = 05/07/2014
+HORA = 05:02:41 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 2428925-3
+***********************FECHA = 05/07/2014  HORA = 05:02:41 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:02:41 am*************************
+FECHA = 05/07/2014
+HORA = 05:02:41 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 05:02:41 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+FECHA = 05/07/2014
+HORA = 05:02:54 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer  a encontrado registros
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+FECHA = 05/07/2014
+HORA = 05:02:54 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion mensajes_sin_leer a traido datos
+Datos a mostrar :username= 17372849-2
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+FECHA = 05/07/2014
+HORA = 05:02:54 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :20,19,3,mensaje 7 a felipe,mensaje 7 a felipe,,23 Jun 2014  00:29:49
+CABECERAS :id,useridfrom,useridto,subject,fullmessage,smallmessage,fecha_creacion
+DATOS :50,19,3,hola,,jose,26 Jun 2014  11:41:40
+***********************FECHA = 05/07/2014  HORA = 05:02:54 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:17 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:17 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :funcion count_mensajes_sin_leer no a encontrado registros
+Datos a mostrar :username= 24836901-9
+***********************FECHA = 05/07/2014  HORA = 11:31:17 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 11:31:17 am*************************
+FECHA = 05/07/2014
+HORA = 11:31:17 am
+IP = 190.22.31.232
+Nombre de log:mensajes_sin_leer
+Mensaje :ingreso a mensajes_sin_leer
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 11:31:17 am*************************

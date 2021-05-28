@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/abc_dropdownitem_text_padding_right">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_rounded_corners"
+            android:layout_margin="@dimen/abc_action_bar_subtitle_bottom_margin"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                android:scaleType="center" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:textColor="#372c24"
+                android:layout_toRightOf="@+id/foto"
+                android:text="Asignatura:"
+                android:id="@+id/textView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/cursonotas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/textView"
+                android:layout_alignLeft="@+id/textView"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_notas"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:textColor="#372c24"
+                android:layout_below="@+id/cursonotas"
+                android:layout_alignLeft="@+id/cursonotas"
+                android:text="Evaluación"
+                android:id="@+id/textView2"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_notas"
+                android:layout_below="@+id/textView2"
+                android:layout_alignLeft="@+id/textView2" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Nota"
+                android:id="@+id/textView3"
+                android:layout_gravity="right|top"
+                android:layout_alignTop="@+id/textView2"
+                android:layout_toRightOf="@+id/item" />
+
+            <TextView
+                android:id="@+id/nota"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_notas"
+                android:layout_alignTop="@+id/item"
+                android:layout_toRightOf="@+id/item"
+                android:layout_alignBottom="@+id/item"
+                android:layout_alignParentRight="true" />
+
+
+        </RelativeLayout>
+
+</FrameLayout>
+
+

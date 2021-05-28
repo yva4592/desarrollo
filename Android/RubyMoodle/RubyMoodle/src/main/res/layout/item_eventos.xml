@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/abc_dropdownitem_text_padding_right">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_rounded_corners"
+            android:layout_margin="@dimen/abc_action_bar_subtitle_bottom_margin"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                android:scaleType="center"
+                android:layout_alignBottom="@+id/textView5"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:textColor="#372c24"
+                android:layout_toRightOf="@+id/foto"
+                android:text="Actividad:"
+                android:id="@+id/textView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/evento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_below="@+id/textView"
+                android:layout_alignLeft="@+id/textView"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_eventos"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:textColor="#372c24"
+                android:layout_below="@+id/evento"
+                android:layout_alignLeft="@+id/evento"
+                android:text="Asignatura"
+                android:id="@+id/textView2"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/asignatura"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_eventos"
+                android:layout_below="@+id/textView2"
+                android:layout_alignLeft="@+id/textView5" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Inicia:"
+                android:id="@+id/textView5"
+                android:layout_below="@+id/asignatura"
+                android:layout_alignLeft="@+id/textView2"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/desde"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_eventos"
+                android:layout_below="@+id/textView5"
+                android:layout_alignLeft="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/hasta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_eventos"
+                android:layout_below="@+id/textView7"
+                android:layout_alignLeft="@+id/textView7" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Termina:"
+                android:id="@+id/textView7"
+                android:layout_below="@+id/desde"
+                android:layout_alignLeft="@+id/desde"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp" />
+
+
+        </RelativeLayout>
+
+</FrameLayout>
+
+

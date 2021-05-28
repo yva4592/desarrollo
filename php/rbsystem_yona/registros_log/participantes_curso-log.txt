@@ -1,0 +1,843 @@
+
+***********************FECHA = 22/06/2014  HORA = 04:49:02 pm*************************
+FECHA = 22/06/2014
+HORA = 04:49:02 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 22/06/2014  HORA = 04:49:02 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 10:47:01 pm*************************
+FECHA = 22/06/2014
+HORA = 10:47:01 pm
+IP = 190.22.50.129
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 10:47:01 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 11:15:12 pm*************************
+FECHA = 22/06/2014
+HORA = 11:15:12 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 22/06/2014  HORA = 11:15:12 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:21:17 am*************************
+FECHA = 23/06/2014
+HORA = 01:21:17 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 01:21:17 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 01:22:41 am*************************
+FECHA = 23/06/2014
+HORA = 01:22:41 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 01:22:41 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:26:33 am*************************
+FECHA = 23/06/2014
+HORA = 02:26:33 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 02:26:33 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:17:27 pm*************************
+FECHA = 23/06/2014
+HORA = 08:17:27 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 08:17:27 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:17:36 pm*************************
+FECHA = 23/06/2014
+HORA = 08:17:36 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:17:36 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:19:32 pm*************************
+FECHA = 23/06/2014
+HORA = 08:19:32 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:19:32 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:27:49 pm*************************
+FECHA = 23/06/2014
+HORA = 08:27:49 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:27:49 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:28:15 pm*************************
+FECHA = 23/06/2014
+HORA = 08:28:15 pm
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:28:15 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:38:33 pm*************************
+FECHA = 23/06/2014
+HORA = 08:38:33 pm
+IP = 190.98.227.67
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 08:38:33 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:38:40 pm*************************
+FECHA = 23/06/2014
+HORA = 08:38:40 pm
+IP = 190.98.227.67
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:38:40 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:39:16 pm*************************
+FECHA = 23/06/2014
+HORA = 08:39:16 pm
+IP = 190.98.227.67
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:39:16 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:39:44 pm*************************
+FECHA = 23/06/2014
+HORA = 08:39:44 pm
+IP = 190.98.227.67
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:39:44 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:41:03 pm*************************
+FECHA = 23/06/2014
+HORA = 08:41:03 pm
+IP = 190.98.227.67
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:41:03 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:44:51 pm*************************
+FECHA = 23/06/2014
+HORA = 08:44:51 pm
+IP = 200.29.165.195
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:44:51 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:49:12 pm*************************
+FECHA = 23/06/2014
+HORA = 08:49:12 pm
+IP = 200.72.240.3
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 23/06/2014  HORA = 08:49:12 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 12:36:40 am*************************
+FECHA = 24/06/2014
+HORA = 12:36:40 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 12:36:40 am*************************
+
+***********************FECHA = 24/06/2014  HORA = 02:43:55 pm*************************
+FECHA = 24/06/2014
+HORA = 02:43:55 pm
+IP = 190.22.98.117
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 02:43:55 pm*************************
+
+***********************FECHA = 24/06/2014  HORA = 09:35:49 pm*************************
+FECHA = 24/06/2014
+HORA = 09:35:49 pm
+IP = 200.29.165.195
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 24/06/2014  HORA = 09:35:49 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:24:39 am*************************
+FECHA = 26/06/2014
+HORA = 03:24:39 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 26/06/2014  HORA = 03:24:39 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:09:03 am*************************
+FECHA = 26/06/2014
+HORA = 05:09:04 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 26/06/2014  HORA = 05:09:03 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+FECHA = 26/06/2014
+HORA = 05:11:36 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+FECHA = 26/06/2014
+HORA = 05:11:36 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+FECHA = 26/06/2014
+HORA = 05:11:36 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 26/06/2014  HORA = 05:11:36 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:38 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:38 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+FECHA = 26/06/2014
+HORA = 05:12:38 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 26/06/2014  HORA = 05:12:38 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:48 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:48 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso no a encontrado registros
+Datos a mostrar :curso = 17372849-2
+***********************FECHA = 26/06/2014  HORA = 07:19:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 07:19:48 am*************************
+FECHA = 26/06/2014
+HORA = 07:19:48 am
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 26/06/2014  HORA = 07:19:48 am*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:48 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 26/06/2014  HORA = 03:41:48 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:56 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicionMedioA
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:56 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+FECHA = 26/06/2014
+HORA = 03:41:56 pm
+IP = 201.214.167.141
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 26/06/2014  HORA = 03:41:56 pm*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:56:42 am
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:56:42 am
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+FECHA = 27/06/2014
+HORA = 12:56:42 am
+IP = 200.111.61.131
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 27/06/2014  HORA = 12:56:42 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:08 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:08 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:08 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 05/07/2014  HORA = 06:03:08 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:51 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:51 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+FECHA = 05/07/2014
+HORA = 06:03:51 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 05/07/2014  HORA = 06:03:51 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:04:12 am*************************
+FECHA = 05/07/2014
+HORA = 06:04:12 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso no a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicion1Medio A
+***********************FECHA = 05/07/2014  HORA = 06:04:12 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:04:12 am*************************
+FECHA = 05/07/2014
+HORA = 06:04:12 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 06:04:12 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+FECHA = 05/07/2014
+HORA = 06:04:35 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+FECHA = 05/07/2014
+HORA = 06:04:35 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Biologia7B
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+FECHA = 05/07/2014
+HORA = 06:04:35 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :24,23781998-5,aileen,Burgoz,aileen@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :23,24836901-9,Camila,Cañetes,camila@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :15,20566611-7,Maria,Gonzales,mary@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :22,12880411-0,Fernanda,Herrera,fernanda@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :9,17230573-3,Isamara,Mendoza,izam@gmail.com
+***********************FECHA = 05/07/2014  HORA = 06:04:35 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:00 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:00 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso no a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicion1MedioA
+***********************FECHA = 05/07/2014  HORA = 06:05:00 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:00 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:00 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 06:05:00 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:10 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:10 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso no a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicion1Medio A
+***********************FECHA = 05/07/2014  HORA = 06:05:10 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:10 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:10 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 06:05:10 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:39 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicionMedioA
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:39 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= LenguajeyComunicionMedioA
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+FECHA = 05/07/2014
+HORA = 06:05:39 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :19,24289259-3,Diego,Menares,dig.men@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :11,18243607-0,Virginia,Millahual,virgi@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :7,15020197-7,Raul,Monasterio,raul@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :14,19687997-8,Valentina,Muñoz,vale@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :8,6175069-k,Carlos,Ortega,carlosO@gmail.com
+***********************FECHA = 05/07/2014  HORA = 06:05:39 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:06:19 am*************************
+FECHA = 05/07/2014
+HORA = 06:06:19 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso no a encontrado registros
+Datos a mostrar :curso = LenguajeyComunicionMedioAMatematicas2MediaB
+***********************FECHA = 05/07/2014  HORA = 06:06:19 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:06:19 am*************************
+FECHA = 05/07/2014
+HORA = 06:06:19 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 05/07/2014  HORA = 06:06:19 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************
+FECHA = 05/07/2014
+HORA = 06:06:25 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :count_participantes_curso a encontrado registros
+Datos a mostrar :curso = Matematicas2MediaB
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************
+FECHA = 05/07/2014
+HORA = 06:06:25 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :funcion participantes_curso ha traido registros
+Datos a mostrar :curso= Matematicas2MediaB
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************
+
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************
+FECHA = 05/07/2014
+HORA = 06:06:25 am
+IP = 190.22.31.232
+Nombre de log:participantes_curso
+Mensaje :ingreso a participantes_curso
+
+CABECERAS :id,username,firstname,lastname,email
+DATOS :17,14402357-9,Cristian,Ortega,cris.o@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :20,19671592-4,Carlos,Perez,carlitos.pe@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :10,13798430-k,Juanito,Perez,juani@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :16,14036765-6,Miguel,Riquelme,mig@gmail.com
+CABECERAS :id,username,firstname,lastname,email
+DATOS :21,19512471-k,Veronica,Perez,vero.pe@gmail.com
+***********************FECHA = 05/07/2014  HORA = 06:06:25 am*************************

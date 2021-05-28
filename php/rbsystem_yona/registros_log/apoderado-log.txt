@@ -1,0 +1,43 @@
+
+***********************FECHA = 27/09/2014  HORA = 03:09:50 am*************************
+FECHA = 27/09/2014
+HORA = 03:09:50 am
+IP = 190.22.98.107
+Nombre de log:apoderado
+Mensaje :login_apoderado
+
+CABECERAS :logstatus
+DATOS :0
+CABECERAS :mensaje
+DATOS :error al ingresar datos
+***********************FECHA = 27/09/2014  HORA = 03:09:50 am*************************
+
+***********************FECHA = 27/09/2014  HORA = 03:12:32 am*************************
+FECHA = 27/09/2014
+HORA = 03:12:32 am
+IP = 190.22.98.107
+Nombre de log:apoderado
+Mensaje :login_apoderado
+
+CABECERAS :
+DATOS :
+CABECERAS :
+DATOS :
+CABECERAS :
+DATOS :
+CABECERAS :
+DATOS :
+***********************FECHA = 27/09/2014  HORA = 03:12:32 am*************************
+
+***********************FECHA = 27/09/2014  HORA = 03:15:10 am*************************
+FECHA = 27/09/2014
+HORA = 03:15:10 am
+IP = 190.22.98.107
+Nombre de log:apoderado
+Mensaje :login_apoderado
+
+CABECERAS :rut,nombre,apellido,email
+DATOS :19512471-k,Veronica,Perez,vero.pe@gmail.com
+CABECERAS :rut,nombre,apellido,email
+DATOS :19687997-8,Valentina,Munoz,vale@gmail.com
+***********************FECHA = 27/09/2014  HORA = 03:15:10 am*************************

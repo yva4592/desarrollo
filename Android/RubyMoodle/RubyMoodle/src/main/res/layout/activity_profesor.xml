@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Principal" >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/abc_action_bar_icon_vertical_padding">
+
+        <LinearLayout
+            android:id="@+id/textos"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#ff000000"
+                android:text="Profesor del curso "
+                android:background="@drawable/edittext_rounded_corners"
+                android:textSize="25sp"
+
+                />
+
+        </LinearLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="@dimen/activity_vertical_margin">
+
+        <ListView
+            android:id="@+id/listaprofesor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/item_profesor"
+            android:background="@drawable/estilo_profesor">
+
+        </ListView>
+    </FrameLayout>
+
+</LinearLayout>

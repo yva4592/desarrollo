@@ -1,0 +1,55 @@
+<html>
+<body> 
+<p align="center" >
+
+<p align="center" >
+<img src="../imagenes/logo.png"/>
+<br>
+<form method="get" action="../controlador/acceso.php" align="center">
+campo de prueba(username),(curso):
+<br>
+<input type="Text" name="username" >
+<br>
+token de autorizacion para ejecutar el servicio
+<br>
+<input type="Text" name="token" >
+<br>
+<br>
+tabla para ingresar mensajes:
+<table border="1"  align="center" >
+	<tr>
+    	<td>user_id_from:</td><td><input type="Text" name="user_id_from" ></td>
+    </tr>
+	<tr>    
+    	<td>user_id_to:</td><td><input type="Text" name="user_id_to" ></td>
+    </tr>
+    <tr>    
+    	<td>mensaje:</td><td><input type="Text" name="mensaje" ></td>
+    </tr>
+</table>
+<br>
+<br>
+<br>
+<select name="opcion">
+  <option value="notas">notas</option>
+  <option value="alumno_apoderado">ver el alumnos del apoderado</option>
+  <option value="participantes_curso">participantes</option>
+  <option value="profesor_del_curso">profesor del curso</option>
+  <option value="asistencia">asistencia</option>
+  <option value="cursos">cursos</option>
+  <option value="mensajes_sin_leer">mensajes sin leer</option>
+  <option value="marcar_leido">marcar como leido</option>
+  <option value="ver_mensajes_leidos">mensajes leidos</option>
+  <option value="ingresar_mensaje">ingresar mensaje</option>
+  <option value="documentos_curso">documento</option>
+  <option value="eventos">eventos</option>
+  <option value="eventos_atrasados">eventos atrasados</option>
+  <option value="mensajes_profesor">mensajes al profesor</option>
+
+</select>
+<br>
+<br>
+<input type="Submit" name="enviar" value="login">
+</form>
+</body>
+</html>

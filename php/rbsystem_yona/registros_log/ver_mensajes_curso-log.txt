@@ -1,0 +1,55 @@
+
+***********************FECHA = 22/06/2014  HORA = 04:48:36 pm*************************
+FECHA = 22/06/2014
+HORA = 04:48:36 pm
+IP = 201.214.167.141
+Nombre de log:ver_mensajes_curso
+Mensaje :ingreso a ver_mensajes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 04:48:36 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:24:10 pm*************************
+FECHA = 22/06/2014
+HORA = 09:24:10 pm
+IP = 201.214.167.141
+Nombre de log:ver_mensajes_curso
+Mensaje :ingreso a ver_mensajes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 09:24:10 pm*************************
+
+***********************FECHA = 22/06/2014  HORA = 09:35:50 pm*************************
+FECHA = 22/06/2014
+HORA = 09:35:50 pm
+IP = 201.214.167.141
+Nombre de log:ver_mensajes_curso
+Mensaje :ingreso a ver_mensajes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 22/06/2014  HORA = 09:35:50 pm*************************
+
+***********************FECHA = 23/06/2014  HORA = 02:53:01 am*************************
+FECHA = 23/06/2014
+HORA = 02:53:01 am
+IP = 201.214.167.141
+Nombre de log:ver_mensajes_curso
+Mensaje :ingreso a ver_mensajes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 02:53:01 am*************************
+
+***********************FECHA = 23/06/2014  HORA = 08:23:39 pm*************************
+FECHA = 23/06/2014
+HORA = 08:23:39 pm
+IP = 200.111.61.131
+Nombre de log:ver_mensajes_curso
+Mensaje :ingreso a ver_mensajes_curso
+
+CABECERAS :logstatus
+DATOS :0
+***********************FECHA = 23/06/2014  HORA = 08:23:39 pm*************************

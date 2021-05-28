@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/abc_dropdownitem_text_padding_right">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_rounded_corners">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/mensaje_leido"
+                android:cropToPadding="true"
+                android:scaleType="center"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:id="@+id/subject"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/foto"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_mensajes_leidos"
+                android:text="             " />
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Mensaje:"
+                android:id="@+id/textViewMensaje"
+                android:layout_below="@+id/subject"
+                android:layout_alignLeft="@+id/subject" />
+
+            <TextView
+                android:id="@+id/smallmessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@+id/textViewMensaje"
+                android:layout_alignLeft="@+id/textViewMensaje"
+                android:background="@drawable/estilo_mensajes_leidos"
+                android:layout_marginBottom="4dp"
+                android:text="            " />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Enviado el:"
+                android:id="@+id/textViewLeido"
+                android:layout_below="@+id/smallmessage"
+                android:layout_alignLeft="@+id/smallmessage" />
+            <TextView
+                android:id="@+id/leido"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="             "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@+id/textViewLeido"
+                android:layout_alignLeft="@+id/textViewLeido"
+                android:background="@drawable/estilo_mensajes_leidos"
+                android:layout_marginBottom="4dp" />
+
+
+
+        </RelativeLayout>
+    </FrameLayout>
+
+

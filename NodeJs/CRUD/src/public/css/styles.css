@@ -1,0 +1,192 @@
+body {
+  background:white;
+  font-family: 'Oswald', sans-serif;
+   
+}
+
+.letra1 {
+  color: darkred;
+}
+
+.btn-darkred{
+  background-color: darkred;
+  color: white; 
+}
+
+.btn-darkred:hover{
+  opacity: .8;
+  color:white;
+}
+ 
+.input-darkred:focus {
+  border-color:  #3f0000;
+  opacity: 0.9;
+  box-shadow: 0 0px 1px #3f0000 inset, 0 0 7px darkred;
+  outline: 0 none;
+}
+
+.letter-small {
+  font-size: 11px;
+}
+
+.letter-big {
+  font-size: 18px;
+}
+
+.bord-cl{
+  border-top: solid 4px darkred; 
+}
+
+.index {
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar {
+    background: white !important;
+}
+
+.nav-link {
+    color: grey !important;
+}
+
+.logo-sm{
+  width: 130;
+ }
+
+.fondo-body{
+    background: url('/img/background-sign.gif');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.page-fot{
+  background-color: white;  
+}
+
+.letterNegrt {
+font-weight: bold;
+}
+
+.bandera-sm{
+  width: 30px;
+}
+
+.mg-tops {
+  padding-top: 80px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+.fondo-in{
+background-color: whitesmoke;
+}
+
+.marg-fot{
+  margin: 34;
+  background-color: white;
+ }
+
+ .mg-bot{
+   padding-bottom: 10px;
+ }
+
+.btnFace{
+  background-color: rgba(59,89,153,1);
+  color:white;
+}
+
+.btnTw{
+  background-color: rgba(85,172,238,1);
+  color:white;
+}
+
+.letterRed {
+  color: darkred;
+}
+
+.letterRed:hover{
+  color: darkred;
+  opacity: .8;
+ }
+ 
+.ulLine
+{ 
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+ 
+.footerClass{  
+  background-color: #3f0000;
+  color:white;
+  font-size: 12px;
+}
+
+@media screen and (max-width: 770px) {
+  .hidden-sm{
+      visibility: hidden;
+      display: none;
+  }
+ }
+
+ @media screen and (max-width: 770px) {
+  .foot-sm{
+      margin: 8px; 
+  }
+ }
+
+.ulLine li {
+   background:url("/img/arrow.png") 0 1px no-repeat;
+   background-size: 11%;
+   padding: 0 0 5px 45px;
+   display:-moz-inline-box;
+}
+
+.masthead {
+    color: white;
+    min-height: 30rem;
+    width: 100%;
+    height: 100%;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: url('/img/background.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.masthead h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  @media (min-width: 992px) {
+    .masthead {
+      height: 100vh;
+    }
+    .masthead h1 {
+      font-size: 5.5rem;
+    }
+  }
+
+.bor-img-cours{
+  width: 100%; 
+border-radius: 10%;
+}
+
+.bor-card{
+  border-radius: 10%;
+}
+
+.fond-card{
+  border-radius: 7%;
+  background-color: whitesmoke;
+  margin-right: 4px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  padding: 20px;
+}

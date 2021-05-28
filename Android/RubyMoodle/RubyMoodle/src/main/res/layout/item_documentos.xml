@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/abc_dropdownitem_text_padding_right">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_rounded_corners"
+            android:layout_margin="@dimen/abc_action_bar_subtitle_bottom_margin"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                android:scaleType="center" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:textColor="#372c24"
+                android:layout_toRightOf="@+id/foto"
+                android:text="Documento:"
+                android:id="@+id/textView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/nombredocumento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_documentos"
+                android:layout_below="@+id/textView"
+                android:layout_alignLeft="@+id/textView" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Documentos disponible desde:"
+                android:id="@+id/textView3"
+                android:layout_gravity="right|top"
+                android:layout_below="@+id/nombredocumento"
+                android:layout_alignLeft="@+id/disponibledesde"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/disponibledesde"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@drawable/estilo_documentos"
+                android:layout_below="@+id/textView3"
+                android:layout_alignLeft="@+id/nombredocumento"
+                android:layout_marginTop="4dp"
+                android:layout_alignParentRight="true" />
+
+
+        </RelativeLayout>
+
+</FrameLayout>
+
+

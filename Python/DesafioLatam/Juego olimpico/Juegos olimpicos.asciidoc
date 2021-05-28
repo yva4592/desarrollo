@@ -1,0 +1,1748 @@
++*In[5]:*+
+[source, ipython3]
+----
+import pandas as pd
+import numpy as np
+
+
+### leer  CSV
+df = pd.read_csv('athlete_events.csv')
+
+ejercicio_1 = df.shape  # (271116, 15
+
+ejercicio_2 = df['Sport'].value_counts().count()
+
+ejercicio_3 = df['Season'].value_counts() / len(df)
+
+
+df[( df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer" ) ]
+
+ejercicio_4 = np.where(( df[   df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ], df["Team"] ], df["Team"]))
+
+
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"]
+                       
+ejercicio_6 = df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"].unique()
+
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]
+
+for colname, serie in df.iteritems():
+    print(colname)
+    print(serie)
+    break
+
+
+for i in df:
+    print(i)
+python3 --version
+
+
+
+df[df['Season'] == "Summer" or df['Season'] == "Winter"]
+
+
+
+ejercicio_1 = df['Year'].value_counts()
+
+df.groupby('Team').nunique()
+
+df.groupby('Team').nunique().sort_values(by = "Name", ascending == False)
+
+
+
+
+# n 6
+
+df.groupby('Team').nunique()
+
+df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)
+
+df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"]
+
+df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"][:10]
+----
+
+
++*Out[5]:*+
+----
+
+      File "<ipython-input-5-1196dc0681d0>", line 17
+        ejercicio_4 = np.where(( df[   df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ], df["Team"] ], df["Team"]))
+                                                                              ^
+    SyntaxError: closing parenthesis ')' does not match opening parenthesis '['
+    
+
+----
+
+
++*In[2]:*+
+[source, ipython3]
+----
+import pandas as pd
+import numpy as np
+
+
+### leer  CSV
+df = pd.read_csv('athlete_events.csv')
+
+----
+
+
++*Out[2]:*+
+----
+
+    ---------------------------------------------------------------------------
+
+    FileNotFoundError                         Traceback (most recent call last)
+
+    <ipython-input-2-1e3bd370020b> in <module>
+          4 
+          5 ### leer  CSV
+    ----> 6 df = pd.read_csv('athlete_events.csv')
+    
+
+    ~\anaconda3\lib\site-packages\pandas\io\parsers.py in read_csv(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, squeeze, prefix, mangle_dupe_cols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, dialect, error_bad_lines, warn_bad_lines, delim_whitespace, low_memory, memory_map, float_precision)
+        684     )
+        685 
+    --> 686     return _read(filepath_or_buffer, kwds)
+        687 
+        688 
+    
+
+    ~\anaconda3\lib\site-packages\pandas\io\parsers.py in _read(filepath_or_buffer, kwds)
+        450 
+        451     # Create the parser.
+    --> 452     parser = TextFileReader(fp_or_buf, **kwds)
+        453 
+        454     if chunksize or iterator:
+    
+
+    ~\anaconda3\lib\site-packages\pandas\io\parsers.py in __init__(self, f, engine, **kwds)
+        944             self.options["has_index_names"] = kwds["has_index_names"]
+        945 
+    --> 946         self._make_engine(self.engine)
+        947 
+        948     def close(self):
+    
+
+    ~\anaconda3\lib\site-packages\pandas\io\parsers.py in _make_engine(self, engine)
+       1176     def _make_engine(self, engine="c"):
+       1177         if engine == "c":
+    -> 1178             self._engine = CParserWrapper(self.f, **self.options)
+       1179         else:
+       1180             if engine == "python":
+    
+
+    ~\anaconda3\lib\site-packages\pandas\io\parsers.py in __init__(self, src, **kwds)
+       2006         kwds["usecols"] = self.usecols
+       2007 
+    -> 2008         self._reader = parsers.TextReader(src, **kwds)
+       2009         self.unnamed_cols = self._reader.unnamed_cols
+       2010 
+    
+
+    pandas\_libs\parsers.pyx in pandas._libs.parsers.TextReader.__cinit__()
+    
+
+    pandas\_libs\parsers.pyx in pandas._libs.parsers.TextReader._setup_parser_source()
+    
+
+    FileNotFoundError: [Errno 2] No such file or directory: 'athlete_events.csv'
+
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+df
+
+----
+
+
++*In[6]:*+
+[source, ipython3]
+----
+import pandas as pd
+import numpy as np
+
+
+### leer  CSV
+df = pd.read_csv('C:/Users/frien/OneDrive/Documentos/Yonathan/Estudios/DataScience/DesafioLatam/Introduccion a la Programacion con Python/4.- Estructura de datos/Desafios/Juego olimpico/athlete_events.csv')
+----
+
+
++*In[5]:*+
+[source, ipython3]
+----
+df
+----
+
+
++*Out[5]:*+
+----
+[cols=",,,,,,,,,,,,,,,",options="header",]
+|===
+| |ID |Name |Sex |Age |Height |Weight |Team |NOC |Games |Year |Season
+|City |Sport |Event |Medal
+|0 |1 |A Dijiang |M |24.0 |180.0 |80.0 |China |CHN |1992 Summer |1992
+|Summer |Barcelona |Basketball |Basketball Men's Basketball |NaN
+
+|1 |2 |A Lamusi |M |23.0 |170.0 |60.0 |China |CHN |2012 Summer |2012
+|Summer |London |Judo |Judo Men's Extra-Lightweight |NaN
+
+|2 |3 |Gunnar Nielsen Aaby |M |24.0 |NaN |NaN |Denmark |DEN |1920 Summer
+|1920 |Summer |Antwerpen |Football |Football Men's Football |NaN
+
+|3 |4 |Edgar Lindenau Aabye |M |34.0 |NaN |NaN |Denmark/Sweden |DEN
+|1900 Summer |1900 |Summer |Paris |Tug-Of-War |Tug-Of-War Men's
+Tug-Of-War |Gold
+
+|4 |5 |Christine Jacoba Aaftink |F |21.0 |185.0 |82.0 |Netherlands |NED
+|1988 Winter |1988 |Winter |Calgary |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|... |... |... |... |... |... |... |... |... |... |... |... |... |...
+|... |...
+
+|271111 |135569 |Andrzej ya |M |29.0 |179.0 |89.0 |Poland-1 |POL |1976
+Winter |1976 |Winter |Innsbruck |Luge |Luge Mixed (Men)'s Doubles |NaN
+
+|271112 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Individual |NaN
+
+|271113 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Team |NaN
+
+|271114 |135571 |Tomasz Ireneusz ya |M |30.0 |185.0 |96.0 |Poland |POL
+|1998 Winter |1998 |Winter |Nagano |Bobsleigh |Bobsleigh Men's Four |NaN
+
+|271115 |135571 |Tomasz Ireneusz ya |M |34.0 |185.0 |96.0 |Poland |POL
+|2002 Winter |2002 |Winter |Salt Lake City |Bobsleigh |Bobsleigh Men's
+Four |NaN
+|===
+
+271116 rows × 15 columns
+----
+
+
++*In[6]:*+
+[source, ipython3]
+----
+df[( df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer" ) ]
+----
+
+
++*Out[6]:*+
+----
+[cols=",,,,,,,,,,,,,,,",options="header",]
+|===
+| |ID |Name |Sex |Age |Height |Weight |Team |NOC |Games |Year |Season
+|City |Sport |Event |Medal
+|3079 |1724 |Aristidis Akratopoulos |M |NaN |NaN |NaN |Greece |GRE |1896
+Summer |1896 |Summer |Athina |Tennis |Tennis Men's Singles |NaN
+
+|3080 |1724 |Aristidis Akratopoulos |M |NaN |NaN |NaN |Greece-3 |GRE
+|1896 Summer |1896 |Summer |Athina |Tennis |Tennis Men's Doubles |NaN
+
+|3081 |1725 |Konstantinos "Kostas" Akratopoulos |M |NaN |NaN |NaN
+|Greece |GRE |1896 Summer |1896 |Summer |Athina |Tennis |Tennis Men's
+Singles |NaN
+
+|3082 |1725 |Konstantinos "Kostas" Akratopoulos |M |NaN |NaN |NaN
+|Greece-3 |GRE |1896 Summer |1896 |Summer |Athina |Tennis |Tennis Men's
+Doubles |NaN
+
+|7348 |4113 |Anastasios Andreou |M |NaN |NaN |NaN |Greece |GRE |1896
+Summer |1896 |Summer |Athina |Athletics |Athletics Men's 110 metres
+Hurdles |NaN
+
+|... |... |... |... |... |... |... |... |... |... |... |... |... |...
+|... |...
+
+|270473 |135285 |Khristos Zoumis |M |NaN |NaN |NaN |Greece |GRE |1896
+Summer |1896 |Summer |Athina |Athletics |Athletics Men's Triple Jump
+|NaN
+
+|270914 |135481 |Jules Alexis "Louis" Zutter |M |30.0 |NaN |NaN
+|Switzerland |SUI |1896 Summer |1896 |Summer |Athina |Gymnastics
+|Gymnastics Men's Horse Vault |Silver
+
+|270915 |135481 |Jules Alexis "Louis" Zutter |M |30.0 |NaN |NaN
+|Switzerland |SUI |1896 Summer |1896 |Summer |Athina |Gymnastics
+|Gymnastics Men's Parallel Bars |Silver
+
+|270916 |135481 |Jules Alexis "Louis" Zutter |M |30.0 |NaN |NaN
+|Switzerland |SUI |1896 Summer |1896 |Summer |Athina |Gymnastics
+|Gymnastics Men's Horizontal Bar |NaN
+
+|270917 |135481 |Jules Alexis "Louis" Zutter |M |30.0 |NaN |NaN
+|Switzerland |SUI |1896 Summer |1896 |Summer |Athina |Gymnastics
+|Gymnastics Men's Pommelled Horse |Gold
+|===
+
+380 rows × 15 columns
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"]
+----
+
+
++*Out[7]:*+
+----3079      Athina
+3080      Athina
+3081      Athina
+3082      Athina
+7348      Athina
+           ...  
+270473    Athina
+270914    Athina
+270915    Athina
+270916    Athina
+270917    Athina
+Name: City, Length: 380, dtype: object----
+
+
++*In[8]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"].unique()
+----
+
+
++*Out[8]:*+
+----array(['Athina'], dtype=object)----
+
+
++*In[9]:*+
+[source, ipython3]
+----
+df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"][:10]
+----
+
+
++*Out[9]:*+
+----Team
+United States    9114
+France           5777
+Great Britain    5758
+Italy            4688
+Germany          4569
+Canada           4546
+Japan            3981
+Australia        3766
+Sweden           3613
+Poland           2932
+Name: Name, dtype: int64----
+
+
++*In[12]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["Winter"].unique()
+----
+
+
++*Out[12]:*+
+----
+
+    ---------------------------------------------------------------------------
+
+    KeyError                                  Traceback (most recent call last)
+
+    ~\anaconda3\lib\site-packages\pandas\core\indexes\base.py in get_loc(self, key, method, tolerance)
+       2894             try:
+    -> 2895                 return self._engine.get_loc(casted_key)
+       2896             except KeyError as err:
+    
+
+    pandas\_libs\index.pyx in pandas._libs.index.IndexEngine.get_loc()
+    
+
+    pandas\_libs\index.pyx in pandas._libs.index.IndexEngine.get_loc()
+    
+
+    pandas\_libs\hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+    
+
+    pandas\_libs\hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+    
+
+    KeyError: 'Winter'
+
+    
+    The above exception was the direct cause of the following exception:
+    
+
+    KeyError                                  Traceback (most recent call last)
+
+    <ipython-input-12-e2d9dfe3409f> in <module>
+    ----> 1 df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["Winter"].unique()
+    
+
+    ~\anaconda3\lib\site-packages\pandas\core\frame.py in __getitem__(self, key)
+       2900             if self.columns.nlevels > 1:
+       2901                 return self._getitem_multilevel(key)
+    -> 2902             indexer = self.columns.get_loc(key)
+       2903             if is_integer(indexer):
+       2904                 indexer = [indexer]
+    
+
+    ~\anaconda3\lib\site-packages\pandas\core\indexes\base.py in get_loc(self, key, method, tolerance)
+       2895                 return self._engine.get_loc(casted_key)
+       2896             except KeyError as err:
+    -> 2897                 raise KeyError(key) from err
+       2898 
+       2899         if tolerance is not None:
+    
+
+    KeyError: 'Winter'
+
+----
+
+
++*In[28]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Winter") ]["City"].unique()
+----
+
+
++*Out[28]:*+
+----array([], dtype=object)----
+
+
++*In[14]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Winter") ]["City"]
+----
+
+
++*Out[14]:*+
+----Series([], Name: City, dtype: object)----
+
+
++*In[16]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().max()) & (df['Season'] == "Winter") ]
+----
+
+
++*Out[16]:*+
+----
+[cols=",,,,,,,,,,,,,,,",options="header",]
+|===
+| |ID |Name |Sex |Age |Height |Weight |Team |NOC |Games |Year |Season
+|City |Sport |Event |Medal
+|===
+----
+
+
++*In[17]:*+
+[source, ipython3]
+----
+df[ (df['Season'] == "Winter") ]
+----
+
+
++*Out[17]:*+
+----
+[cols=",,,,,,,,,,,,,,,",options="header",]
+|===
+| |ID |Name |Sex |Age |Height |Weight |Team |NOC |Games |Year |Season
+|City |Sport |Event |Medal
+|4 |5 |Christine Jacoba Aaftink |F |21.0 |185.0 |82.0 |Netherlands |NED
+|1988 Winter |1988 |Winter |Calgary |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|5 |5 |Christine Jacoba Aaftink |F |21.0 |185.0 |82.0 |Netherlands |NED
+|1988 Winter |1988 |Winter |Calgary |Speed Skating |Speed Skating
+Women's 1,000 metres |NaN
+
+|6 |5 |Christine Jacoba Aaftink |F |25.0 |185.0 |82.0 |Netherlands |NED
+|1992 Winter |1992 |Winter |Albertville |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|7 |5 |Christine Jacoba Aaftink |F |25.0 |185.0 |82.0 |Netherlands |NED
+|1992 Winter |1992 |Winter |Albertville |Speed Skating |Speed Skating
+Women's 1,000 metres |NaN
+
+|8 |5 |Christine Jacoba Aaftink |F |27.0 |185.0 |82.0 |Netherlands |NED
+|1994 Winter |1994 |Winter |Lillehammer |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|... |... |... |... |... |... |... |... |... |... |... |... |... |...
+|... |...
+
+|271111 |135569 |Andrzej ya |M |29.0 |179.0 |89.0 |Poland-1 |POL |1976
+Winter |1976 |Winter |Innsbruck |Luge |Luge Mixed (Men)'s Doubles |NaN
+
+|271112 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Individual |NaN
+
+|271113 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Team |NaN
+
+|271114 |135571 |Tomasz Ireneusz ya |M |30.0 |185.0 |96.0 |Poland |POL
+|1998 Winter |1998 |Winter |Nagano |Bobsleigh |Bobsleigh Men's Four |NaN
+
+|271115 |135571 |Tomasz Ireneusz ya |M |34.0 |185.0 |96.0 |Poland |POL
+|2002 Winter |2002 |Winter |Salt Lake City |Bobsleigh |Bobsleigh Men's
+Four |NaN
+|===
+
+48564 rows × 15 columns
+----
+
+
++*In[9]:*+
+[source, ipython3]
+----
+df[ (df['Season'] == "Winter")]
+----
+
+
++*Out[9]:*+
+----
+[cols=",,,,,,,,,,,,,,,",options="header",]
+|===
+| |ID |Name |Sex |Age |Height |Weight |Team |NOC |Games |Year |Season
+|City |Sport |Event |Medal
+|4 |5 |Christine Jacoba Aaftink |F |21.0 |185.0 |82.0 |Netherlands |NED
+|1988 Winter |1988 |Winter |Calgary |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|5 |5 |Christine Jacoba Aaftink |F |21.0 |185.0 |82.0 |Netherlands |NED
+|1988 Winter |1988 |Winter |Calgary |Speed Skating |Speed Skating
+Women's 1,000 metres |NaN
+
+|6 |5 |Christine Jacoba Aaftink |F |25.0 |185.0 |82.0 |Netherlands |NED
+|1992 Winter |1992 |Winter |Albertville |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|7 |5 |Christine Jacoba Aaftink |F |25.0 |185.0 |82.0 |Netherlands |NED
+|1992 Winter |1992 |Winter |Albertville |Speed Skating |Speed Skating
+Women's 1,000 metres |NaN
+
+|8 |5 |Christine Jacoba Aaftink |F |27.0 |185.0 |82.0 |Netherlands |NED
+|1994 Winter |1994 |Winter |Lillehammer |Speed Skating |Speed Skating
+Women's 500 metres |NaN
+
+|... |... |... |... |... |... |... |... |... |... |... |... |... |...
+|... |...
+
+|271111 |135569 |Andrzej ya |M |29.0 |179.0 |89.0 |Poland-1 |POL |1976
+Winter |1976 |Winter |Innsbruck |Luge |Luge Mixed (Men)'s Doubles |NaN
+
+|271112 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Individual |NaN
+
+|271113 |135570 |Piotr ya |M |27.0 |176.0 |59.0 |Poland |POL |2014
+Winter |2014 |Winter |Sochi |Ski Jumping |Ski Jumping Men's Large Hill,
+Team |NaN
+
+|271114 |135571 |Tomasz Ireneusz ya |M |30.0 |185.0 |96.0 |Poland |POL
+|1998 Winter |1998 |Winter |Nagano |Bobsleigh |Bobsleigh Men's Four |NaN
+
+|271115 |135571 |Tomasz Ireneusz ya |M |34.0 |185.0 |96.0 |Poland |POL
+|2002 Winter |2002 |Winter |Salt Lake City |Bobsleigh |Bobsleigh Men's
+Four |NaN
+|===
+
+48564 rows × 15 columns
+----
+
+
++*In[11]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) | (df['Season'] == "Winter") ]["City"].unique()
+----
+
+
++*Out[11]:*+
+----array(['Calgary', 'Albertville', 'Lillehammer', 'Salt Lake City',
+       'Lake Placid', 'Sochi', 'Nagano', 'Torino', 'Squaw Valley',
+       'Innsbruck', 'Sarajevo', 'Oslo', "Cortina d'Ampezzo", 'Vancouver',
+       'Grenoble', 'Sapporo', 'Chamonix', 'Sankt Moritz',
+       'Garmisch-Partenkirchen', 'Athina'], dtype=object)----
+
+
++*In[26]:*+
+[source, ipython3]
+----
+df[df['Year'] == df['Year'].unique().min()]["Season"].unique()
+----
+
+
++*Out[26]:*+
+----array(['Summer'], dtype=object)----
+
+
++*In[34]:*+
+[source, ipython3]
+----
+df['Medal'].unique()
+----
+
+
++*Out[34]:*+
+----array([nan, 'Gold', 'Bronze', 'Silver'], dtype=object)----
+
+
++*In[57]:*+
+[source, ipython3]
+----
+ df[df['Medal'] == "Bronze" ]["Name"].count()
+----
+
+
++*Out[57]:*+
+----13295----
+
+
++*In[58]:*+
+[source, ipython3]
+----
+df.groupby('Medal').nunique().sort_values(by = "Name", ascending = False)["Name"] / len(df)
+----
+
+
++*Out[58]:*+
+----Medal
+Bronze    0.043771
+Silver    0.042159
+Gold      0.038408
+Name: Name, dtype: float64----
+
+
++*In[60]:*+
+[source, ipython3]
+----
+df.groupby('Medal').nunique()["Name"] / len(df)
+----
+
+
++*Out[60]:*+
+----Medal
+Bronze    0.043771
+Gold      0.038408
+Silver    0.042159
+Name: Name, dtype: float64----
+
+
++*In[61]:*+
+[source, ipython3]
+----
+df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["Team"].unique()
+----
+
+
++*Out[61]:*+
+----array(['Greece', 'Greece-3', 'Great Britain', 'Switzerland',
+       'United States', 'Germany', 'Great Britain/Germany', 'France',
+       'Greece-1', 'Hungary', 'Australia', 'Australia/Great Britain',
+       'Austria', 'Denmark', 'Ethnikos Gymnastikos Syllogos', 'Greece-2',
+       'Italy', 'Sweden'], dtype=object)----
+
+
++*In[67]:*+
+[source, ipython3]
+----
+df.groupby('Year').nunique()
+----
+
+
++*Out[67]:*+
+----
+ID
+
+Name
+
+Sex
+
+Age
+
+Height
+
+Weight
+
+Team
+
+NOC
+
+Games
+
+Season
+
+City
+
+Sport
+
+Event
+
+Medal
+
+Year
+
+1896
+
+176
+
+176
+
+1
+
+20
+
+13
+
+12
+
+18
+
+12
+
+1
+
+1
+
+1
+
+9
+
+43
+
+3
+
+1900
+
+1224
+
+1220
+
+2
+
+48
+
+24
+
+27
+
+190
+
+31
+
+1
+
+1
+
+1
+
+20
+
+90
+
+3
+
+1904
+
+650
+
+650
+
+2
+
+49
+
+27
+
+41
+
+79
+
+15
+
+1
+
+1
+
+1
+
+18
+
+95
+
+3
+
+1906
+
+841
+
+841
+
+2
+
+39
+
+26
+
+39
+
+52
+
+21
+
+1
+
+1
+
+1
+
+13
+
+74
+
+3
+
+1908
+
+2024
+
+2024
+
+2
+
+46
+
+37
+
+57
+
+73
+
+22
+
+1
+
+1
+
+1
+
+24
+
+109
+
+3
+
+1912
+
+2409
+
+2409
+
+2
+
+51
+
+39
+
+62
+
+102
+
+29
+
+1
+
+1
+
+1
+
+17
+
+107
+
+3
+
+1920
+
+2676
+
+2675
+
+2
+
+49
+
+44
+
+69
+
+72
+
+29
+
+1
+
+1
+
+1
+
+25
+
+158
+
+3
+
+1924
+
+3565
+
+3565
+
+2
+
+60
+
+44
+
+71
+
+93
+
+46
+
+2
+
+2
+
+2
+
+30
+
+148
+
+3
+
+1928
+
+3703
+
+3702
+
+2
+
+62
+
+49
+
+70
+
+85
+
+46
+
+2
+
+2
+
+2
+
+25
+
+136
+
+3
+
+1932
+
+2174
+
+2174
+
+2
+
+67
+
+48
+
+65
+
+72
+
+47
+
+2
+
+2
+
+2
+
+25
+
+145
+
+3
+
+1936
+
+5142
+
+5138
+
+2
+
+62
+
+50
+
+82
+
+132
+
+50
+
+2
+
+2
+
+2
+
+32
+
+167
+
+3
+
+1948
+
+5068
+
+5068
+
+2
+
+66
+
+46
+
+84
+
+131
+
+61
+
+2
+
+2
+
+2
+
+29
+
+175
+
+3
+
+1952
+
+5622
+
+5621
+
+2
+
+52
+
+54
+
+111
+
+155
+
+69
+
+2
+
+2
+
+2
+
+27
+
+171
+
+3
+
+1956
+
+4167
+
+4166
+
+2
+
+51
+
+60
+
+102
+
+149
+
+75
+
+2
+
+2
+
+3
+
+27
+
+175
+
+3
+
+1960
+
+6017
+
+6012
+
+2
+
+54
+
+65
+
+124
+
+196
+
+84
+
+2
+
+2
+
+2
+
+27
+
+177
+
+3
+
+1964
+
+6230
+
+6226
+
+2
+
+48
+
+66
+
+118
+
+199
+
+94
+
+2
+
+2
+
+2
+
+31
+
+197
+
+3
+
+1968
+
+6717
+
+6711
+
+2
+
+53
+
+70
+
+122
+
+145
+
+112
+
+2
+
+2
+
+2
+
+30
+
+207
+
+3
+
+1972
+
+8122
+
+8111
+
+2
+
+51
+
+73
+
+128
+
+157
+
+121
+
+2
+
+2
+
+2
+
+33
+
+228
+
+3
+
+1976
+
+7200
+
+7194
+
+2
+
+48
+
+76
+
+131
+
+126
+
+93
+
+2
+
+2
+
+2
+
+33
+
+235
+
+3
+
+1980
+
+6330
+
+6323
+
+2
+
+43
+
+80
+
+135
+
+111
+
+90
+
+2
+
+2
+
+2
+
+33
+
+241
+
+3
+
+1984
+
+8067
+
+8057
+
+2
+
+46
+
+77
+
+127
+
+179
+
+148
+
+2
+
+2
+
+2
+
+35
+
+260
+
+3
+
+1988
+
+9873
+
+9860
+
+2
+
+49
+
+82
+
+139
+
+211
+
+160
+
+2
+
+2
+
+2
+
+37
+
+283
+
+3
+
+1992
+
+11183
+
+11172
+
+2
+
+50
+
+81
+
+143
+
+239
+
+170
+
+2
+
+2
+
+2
+
+41
+
+314
+
+3
+
+1994
+
+1738
+
+1738
+
+2
+
+29
+
+50
+
+86
+
+101
+
+67
+
+1
+
+1
+
+1
+
+12
+
+61
+
+3
+
+1996
+
+10339
+
+10324
+
+2
+
+47
+
+80
+
+152
+
+246
+
+197
+
+1
+
+1
+
+1
+
+31
+
+271
+
+3
+
+1998
+
+2179
+
+2178
+
+2
+
+31
+
+53
+
+85
+
+106
+
+72
+
+1
+
+1
+
+1
+
+14
+
+68
+
+3
+
+2000
+
+10647
+
+10639
+
+2
+
+44
+
+82
+
+159
+
+243
+
+200
+
+1
+
+1
+
+1
+
+34
+
+300
+
+3
+
+2002
+
+2399
+
+2397
+
+2
+
+31
+
+52
+
+78
+
+114
+
+77
+
+1
+
+1
+
+1
+
+15
+
+78
+
+3
+
+2004
+
+10557
+
+10537
+
+2
+
+44
+
+81
+
+154
+
+260
+
+201
+
+1
+
+1
+
+1
+
+34
+
+301
+
+3
+
+2006
+
+2494
+
+2494
+
+2
+
+37
+
+52
+
+81
+
+113
+
+79
+
+1
+
+1
+
+1
+
+15
+
+84
+
+3
+
+2008
+
+10899
+
+10880
+
+2
+
+50
+
+82
+
+141
+
+292
+
+204
+
+1
+
+1
+
+1
+
+34
+
+302
+
+3
+
+2010
+
+2536
+
+2535
+
+2
+
+35
+
+53
+
+78
+
+116
+
+82
+
+1
+
+1
+
+1
+
+15
+
+86
+
+3
+
+2012
+
+10517
+
+10502
+
+2
+
+48
+
+77
+
+132
+
+245
+
+205
+
+1
+
+1
+
+1
+
+32
+
+302
+
+3
+
+2014
+
+2745
+
+2744
+
+2
+
+35
+
+55
+
+73
+
+119
+
+89
+
+1
+
+1
+
+1
+
+15
+
+98
+
+3
+
+2016
+
+11179
+
+11174
+
+2
+
+48
+
+78
+
+123
+
+249
+
+207
+
+1
+
+1
+
+1
+
+34
+
+306
+
+3
+----
