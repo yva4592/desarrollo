@@ -15,7 +15,7 @@ auto6 = ['Toyota Corolla', 33.9, 4, True, 1]
 
 autos = [auto1,auto2,auto3,auto4,auto5,auto6]
 
-"""
+
 
 # funciom que retorna el promedio de una lista de numeros enteros y float
 
@@ -39,7 +39,7 @@ def promedio(lista):
             
         return retorno
 
-"""
+
 
 
 ################  Muestra una lista con los que cumplen la condicion usando el filter

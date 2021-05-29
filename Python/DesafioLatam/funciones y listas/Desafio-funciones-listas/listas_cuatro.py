@@ -16,7 +16,7 @@ auto6 = ['Toyota Corolla', 33.9, 4, True, 1]
 autos = [auto1,auto2,auto3,auto4,auto5,auto6]
 
 
-# el nombre del auto donde penúltimo campo) True
+# el nombre del auto donde el penúltimo campo es True
 
 for auto in autos:
     if auto[3] == True:
