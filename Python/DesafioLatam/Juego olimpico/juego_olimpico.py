@@ -6,79 +6,46 @@ Created on Thu May 27 19:12:05 2021
 """
 
 import pandas as pd
-import numpy as np
 
 
 ### leer  CSV
 df = pd.read_csv('athlete_events.csv')
 
+
+#ejercicio_1
 ejercicio_1 = df.shape  # (271116, 15
 
+#ejercicio_2
 ejercicio_2 = df['Sport'].value_counts().count()
 
+#ejercicio_3
 ejercicio_3 = df['Season'].value_counts() / len(df)
 
-ejercicio_4 = df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"].unique()
+#ejercicio_4
+ejercicio_4 = df[df.Season=="Summer"].sort_values('Year').head(1)["City"].unique()
 
-ejercicio_5 = df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Winter") ]["City"].unique()
-# comprobar :  df[df['Year'] == df['Year'].unique().min()]["Season"].unique()
+#ejercicio_5
+ejercicio_5 = df[df.Season=="Winter"].sort_values('Year').head(1)["City"].unique()
 
+#ejercicio_6
 ejercicio_6 = df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"][:10]
 
-ejercicio_7 = df.groupby('Medal').nunique()["Name"] / len(df)
+#ejercicio_7
+med_ver=df[df['Season']=="Summer"]["Medal"].value_counts()
+med_inv=df[df['Season']=="Winter"]["Medal"].value_counts()
 
+porc_ver=df[df['Season']=="Summer"]["Medal"].value_counts()/sum(df[df['Season']=="Summer"]["Medal"].value_counts())
+porc_inv=df[df['Season']=="Winter"]["Medal"].value_counts()/sum(df[df['Season']=="Winter"]["Medal"].value_counts())
+
+ejercicio_7=df["Medal"].value_counts()/ sum(df["Medal"].value_counts())
+
+
+
+#ejercicio_8
 ejercicio_8 = df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["Team"].unique()
 
 
-"""
 
-df[( df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer" ) ]
-
-ejercicio_4 = np.where(( df[   df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ], df["Team"] ], df["Team"]))
-
-
-df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"]
-                       
-ejercicio_6 = df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]["City"].unique()
-
-df[(df['Year'] == df['Year'].unique().min()) & (df['Season'] == "Summer") ]
-
-for colname, serie in df.iteritems():
-    print(colname)
-    print(serie)
-    break
-
-
-for i in df:
-    print(i)
-python3 --version
-
-
-
-df[df['Season'] == "Summer" or df['Season'] == "Winter"]
-
-
-
-ejercicio_1 = df['Year'].value_counts()
-
-df.groupby('Team').nunique()
-
-df.groupby('Team').nunique().sort_values(by = "Name", ascending == False)
-
-
-
-
-# n 6
-
-df.groupby('Team').nunique()
-
-df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)
-
-df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"]
-
-df.groupby('Team').nunique().sort_values(by = "Name", ascending = False)["Name"][:10]
-
-"""
 
 
 
