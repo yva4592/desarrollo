@@ -5,7 +5,33 @@ Created on Thu May 27 06:38:47 2021
 @author: YonathanVasquez
 """
 
-import numpy as np
+
+# funciom que retorna el promedio de una lista de numeros enteros y float
+
+def promedio(lista):
+        suma = 0 
+        prom = 0
+        retorno = 0
+        string = ""
+        for i in lista:
+            if (type(i)==int or type(i)==float):
+                suma+=int(i)
+            else:
+                string = "si"
+                break
+        
+        if string == "si":
+            retorno = "No tiene promedio por que la lista no es de campos numericos !! "
+        else:
+            prom = suma /float(len(lista))
+            retorno = prom
+            
+        return retorno
+
+# funciom que retorna el promedio de una lista de numeros enteros y float
+
+
+# liastas 
 
 velocidad = [4, 4, 7, 7, 8, 9, 10, 10, 10,
 11, 11, 12, 12, 12, 12, 13, 13,
@@ -22,129 +48,58 @@ distancia = [2, 10, 4, 22, 16, 10, 18, 26, 34,
 46, 68, 32, 48, 52, 56, 64, 66, 54,
 70, 92, 93, 120, 85]
 
+# liastas
 
-def promedio(lista):
-        suma = 0 
-        prom = 0
-        retorno = 0
-        for i in lista:
-            if (type(i)==int or type(i)==float):
-                suma+=int(i)
-            else:
-                suma+=0
-        if suma == 0:
-            retorno = "No existe promdio por que no son enteros o float"
-        else:
-            prom = suma /float(len(lista))
-            retorno = prom  
-        return retorno
-
+## Para el ejercicio se crea una matriz asociada con datos de velocidad y distancia
 asociados = list(zip(velocidad, distancia))
+## Para el ejercicio se crea una matriz asociada con datos de velocidad y distancia
 
 
-asociados[0][]
-
-asociados[:][1:2]
-
-
-"""
+################# Velocidad bajo el promedio
 
 count_velocidad_bajo_promedio = 0
-velocidad = []
-for a in range(len(asociados)):
-    velocidad.append(asociados[a][0])
     
-for i in velocidad:    
-    if i < promedio(velocidad):
-            print(i)
-            count_velocidad_bajo_promedio+=1
-print(count_velocidad_bajo_promedio)
-print(promedio(velocidad))
-
-"""
-
-################# count_velocidad_bajo_promedio
-
-count_velocidad_bajo_promedio = 0
-velocidad = []
-for a in range(len(asociados)):
-    velocidad.append(asociados[a][0])
-    
-for i in velocidad:    
-    if i < promedio(velocidad):
+for e in range(len(asociados)):
+    if asociados[e][0] < promedio(velocidad):
         count_velocidad_bajo_promedio+=1
-print(count_velocidad_bajo_promedio)
+print("La Velocidad bajo el promedio ocurre: {} veces.".format(count_velocidad_bajo_promedio))
 
-################# count_velocidad_bajo_promedio
+################# Velocidad bajo el promedio
 
 
-################# count_velocidad_distancia_bajo_promedio
+################# Velocidad bajo el promedio y distancia sobre el promedio.
 
-count_velocidad_bajo_promedio_2 = 0
-count_distancia_bajo_promedio = 0
-velocidad = []
-distancia = []
+coun_total = 0
+
 for a in range(len(asociados)):
-    velocidad.append(asociados[a][0])
-    distancia.append(asociados[a][1])
-    
-for i in velocidad:    
-    if i < promedio(velocidad):
-        count_velocidad_bajo_promedio_2+=1
-print(count_velocidad_bajo_promedio_2)
+    if asociados[a][0] < promedio(velocidad) and asociados[a][1] > promedio(distancia):
+        coun_total+=1               
+print("La Velocidad bajo el promedio y distancia sobre el promedio ocurre: {} veces.".format(coun_total))
+
+################# Velocidad bajo el promedio y distancia sobre el promedio.
 
 
-for i in distancia:    
-    if i < promedio(distancia):
-        count_distancia_bajo_promedio+=1
-print(count_distancia_bajo_promedio)
-
-
-################# count_velocidad_distancia_bajo_promedio
-
-
-
-################# count_velocidad_sobre_promedio
+################# Velocidad sobre el promedio
 
 count_velocidad_sobre_promedio = 0
-
-velocidad = []
-
-for a in range(len(asociados)):
-    velocidad.append(asociados[a][0])
-    
-    
-for i in velocidad:    
-    if i > promedio(velocidad):
+ 
+for i in range(len(asociados)):
+    if asociados[i][0] > promedio(velocidad):
         count_velocidad_sobre_promedio+=1
-print(count_velocidad_sobre_promedio)
+print("La Velocidad sobre el promedio. ocurre: {} veces.".format(count_velocidad_sobre_promedio))
+
+################# Velocidad sobre el promedio
 
 
-################# count_velocidad_sobre_promedio
+################# Velocidad sobre el promedio y distancia bajo el promedio
+
+coun_total_2 = 0
+
+for j in range(len(asociados)):
+    if asociados[j][0] > promedio(velocidad) and asociados[j][1] < promedio(distancia):
+        coun_total_2+=1
+              
+print("La Velocidad bajo el promedio y distancia sobre el promedio ocurre: {} veces.".format(coun_total_2))
 
 
-
-
-################# count_velocidad_distancia_bajo_promedio
-
-count_velocidad_sobre_promedio_2 = 0
-count_distancia_sobre_promedio = 0
-velocidad = []
-distancia = []
-for a in range(len(asociados)):
-    velocidad.append(asociados[a][0])
-    distancia.append(asociados[a][1])
-    
-for i in velocidad:    
-    if i > promedio(velocidad):
-        count_velocidad_sobre_promedio_2+=1
-print(count_velocidad_sobre_promedio_2)
-
-
-for i in distancia:    
-    if i > promedio(distancia):
-        count_distancia_sobre_promedio+=1
-print(count_distancia_sobre_promedio)
-
-
-################# count_velocidad_distancia_bajo_promedio
+################# Velocidad sobre el promedio y distancia bajo el promedio

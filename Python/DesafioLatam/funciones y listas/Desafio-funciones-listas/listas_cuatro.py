@@ -15,28 +15,8 @@ auto6 = ['Toyota Corolla', 33.9, 4, True, 1]
 
 autos = [auto1,auto2,auto3,auto4,auto5,auto6]
 
-"""
 
-def promedio(lista):
-        suma = 0 
-        prom = 0
-        retorno = 0
-        for i in lista:
-            if (type(i)==int or type(i)==float):
-                suma+=int(i)
-            else:
-                suma+=0
-        
-        if suma == 0:
-            retorno = "No existe promdio por que no son enteros o float"
-        else:
-            prom = suma /float(len(lista))
-            retorno = prom
-            
-        return retorno
-"""
-
-
+# el nombre del auto donde penúltimo campo) True
 
 for auto in autos:
     if auto[3] == True:

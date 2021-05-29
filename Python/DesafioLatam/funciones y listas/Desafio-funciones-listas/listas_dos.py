@@ -19,18 +19,22 @@ autos = [auto1,auto2,auto3,auto4,auto5,auto6]
 
 
 """
+# funciom que retorna el promedio de una lista de numeros enteros y float
+
 def promedio(lista):
         suma = 0 
         prom = 0
         retorno = 0
+        string = ""
         for i in lista:
             if (type(i)==int or type(i)==float):
                 suma+=int(i)
             else:
-                suma+=0
+                string = "si"
+                break
         
-        if suma == 0:
-            retorno = "No existe promdio por que no son enteros o float"
+        if string == "si":
+            retorno = "No tiene promedio por que la lista no es de campos numericos !! "
         else:
             prom = suma /float(len(lista))
             retorno = prom
@@ -40,5 +44,5 @@ def promedio(lista):
 
 for auto in autos:
     for i in range(len(auto)):
-        print(promedio( [auto[i] if (type(auto[i])==int or type(auto[i])==float) else auto[i] for auto in autos ]))
+        print("{}.-La columna {} de los autos anidados tiene como promedio: {} ".format(i+1,i, promedio( [auto[i] if (type(auto[i])==int or type(auto[i])==float) else auto[i] for auto in autos ])))
     break   
